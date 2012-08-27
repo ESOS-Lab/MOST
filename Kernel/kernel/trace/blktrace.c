@@ -33,7 +33,6 @@
 
 #ifdef CONFIG_BLK_DEV_IO_TRACE
 
-// git test comment
 static unsigned int blktrace_seq __read_mostly = 1;
 
 static struct trace_array *blk_tr;
