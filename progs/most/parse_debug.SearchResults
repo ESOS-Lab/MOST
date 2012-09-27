@@ -1,0 +1,6 @@
+---- BLKTRACE_DEBUGFS_PART1 Matches (5 in 2 files) ----
+Blktrace.h (debugfs)://#define BLKTRACE_DEBUGFS_PART1 //PARTITION 1
+Blktrace.h (debugfs):#elif defined BLKTRACE_DEBUGFS_PART1
+Debugfs.c (debugfs)://#define BLKTRACE_DEBUGFS_PART1 //PARTITION 1
+Debugfs.c (debugfs):#elif defined BLKTRACE_DEBUGFS_PART1
+Debugfs.c (debugfs):	#ifdef BLKTRACE_DEBUGFS_PART1
