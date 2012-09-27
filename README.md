@@ -1,5 +1,5 @@
 Mobile Storage Analyzer
-----------------
+=======================
 
 Written by Kisung Lee <kisunglee@hanyang.ac.kr> (based on e2fsprogs).
 
