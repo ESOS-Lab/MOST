@@ -14,7 +14,7 @@ Kernel part (MOST/kernel)
 * block\blk-core.c
 
 
-User program (MOST/progs/most.tar.gz)
+User program (MOST/progs/most/)
 ----------------
 Build
 -----
