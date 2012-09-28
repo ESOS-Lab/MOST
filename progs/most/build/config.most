@@ -1,0 +1,19 @@
+#!/bin/bash
+cp -f Makefile.most Makefile
+cp -f debugfs/Makefile.most debugfs/Makefile
+cp -f most/Makefile.most most/Makefile
+cp -f e2fsck/Makefile.most e2fsck/Makefile
+cp -f misc/Makefile.most misc/Makefile
+
+cp -f po/Makefile.most po/Makefile
+cp -f resize/Makefile.most resize/Makefile
+cp -f tests/progs/Makefile.most tests/progs/Makefile
+cp -f tests/Makefile.most tests/Makefile
+cp -f util/Makefile.most util/Makefile
+
+cp -f lib/blkid/Makefile.most lib/blkid/Makefile
+cp -f lib/e2p/Makefile.most lib/e2p/Makefile
+cp -f lib/et/Makefile.most lib/et/Makefile
+cp -f lib/ext2fs/Makefile.most lib/ext2fs/Makefile
+cp -f lib/ss/Makefile.most lib/ss/Makefile
+cp -f lib/uuid/Makefile.most lib/uuid/Makefile
