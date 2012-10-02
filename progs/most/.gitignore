@@ -1,6 +1,4 @@
 autom4te.cache
-build
-build.static
 FILES
 ^core
 *~

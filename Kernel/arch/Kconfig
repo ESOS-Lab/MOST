@@ -1,6 +1,8 @@
 #
 # General architecture dependent options
 #
+# Modifications by Kisung Lee <kisunglee@hanyang.ac.kr>
+#  - adding MOST config 2012.3
 
 config MOST
         bool "Enable Mobile Storage Analyzer (MOST)"

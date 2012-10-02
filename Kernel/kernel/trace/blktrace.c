@@ -14,6 +14,9 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  *
+ * Modifications by Kisung Lee <kisunglee@hanyang.ac.kr>
+ *  - MOST, 2012.3
+ *
  */
 #include <linux/kernel.h>
 #include <linux/blkdev.h>
