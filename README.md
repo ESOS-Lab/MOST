@@ -34,12 +34,12 @@ Usage
 Example 
 --------
 1. Run blktrace (for 60 secs)
-  # blktrace -d /dev/block/mmcblk0p12 -a complete -a issue -o result -w 60
+    # blktrace -d /dev/block/mmcblk0p12 -a complete -a issue -o result -w 60
 2. Run android application (for 60 secs)
 3. Run blparse
-  # blkparse -f "%5T.9%t\t%a\t%d\t%8S\t%4n\t%4p\t%20C\n" -q -i result > result.p
+    # blkparse -f "%5T.9%t\t%a\t%d\t%8S\t%4n\t%4p\t%20C\n" -q -i result > result.p
 4. Run MOST 
-  # most EXT4 /dev/block/mmcblk0p12 result.p result.po
+    # most EXT4 /dev/block/mmcblk0p12 result.p result.po
 
 
 
