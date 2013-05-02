@@ -60,7 +60,7 @@ extern unsigned int block_start;
 //#define PARTITION_BLOCK_START 964608	//7716864   emmc (/data)  (mmcblk0p12)
 //#define PARTITION_BLOCK_START 284672	//2277376   emmc (/system)  (mmcblk0p9)
 
-#define PARTITION_BLOCK_START	(block_start/4)
+#define PARTITION_BLOCK_START	(block_start/8)
 #define PARTITION_NAME "/dev/block/mmcblk1p1"
 
 #else
