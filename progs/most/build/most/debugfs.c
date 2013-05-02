@@ -1,4 +1,4 @@
-/*
+ï»¿/*
  * debugfs.c --- a program which allows you to attach an ext2fs
  * filesystem and play with it.
  *
@@ -52,10 +52,15 @@ extern char *optarg;
 //#define NUXUS_S_PART2 //NEXUS_S PARTITION 2
 
 extern unsigned char partition_path[100];
+extern unsigned int block_start;
 
 
 #if defined MOST_SDCARD
-#define PARTITION_BLOCK_START 256 
+//#define PARTITION_BLOCK_START 256 	// sd card (mmcblk1p1)
+//#define PARTITION_BLOCK_START 964608	//7716864   emmc (/data)  (mmcblk0p12)
+//#define PARTITION_BLOCK_START 284672	//2277376   emmc (/system)  (mmcblk0p9)
+
+#define PARTITION_BLOCK_START	(block_start/4)
 #define PARTITION_NAME "/dev/block/mmcblk1p1"
 
 #else
@@ -2320,7 +2325,7 @@ int debugfs(__u64 block)
 
 	if(inode == 0)
 	{
-		//ÀÏ´Ü Metadata·Î ¼³Á¤ÇÔ. Temp ÆÄÀÏÀÎ °æ¿ì µû·Î Ã³¸®ÇÔ.
+		//ï¿½Ï´ï¿½ Metadataï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½. Temp ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½ï¿½ï¿½.
 		sprintf(data_name,"%s", "M");
 		//sprintf(data_name,"%s\tTempfiles", "D");
 	}
@@ -2409,6 +2414,7 @@ int ext_main(int argc, char *argv[])
 				ch=fgetc(fd);
 				//fprintf(ofp,"%c", (char)ch);	
 				sprintf(full,"%s%c",full,(char)ch);
+
 				if((char)ch=='S')
 				{
 					ch=fgetc(fd);
@@ -2419,7 +2425,9 @@ int ext_main(int argc, char *argv[])
 				i++;
 			}while(count--);
 
-			block = (__u64)atoi(str)/8;
+			block = (__u64)(atoi(str)/8);
+			
+			printf("block : %d\n", (int)block);
 
 			#ifdef MOST_SDCARD
 				block = block - PARTITION_BLOCK_START;
@@ -2465,8 +2473,11 @@ int ext_main(int argc, char *argv[])
 			if(bpart == 1)
 			{
 				fprintf(ofp, "%s\t%s\n", full, data_name);		
+				//printf("%s\n", ofp);
 				bpart=0;
 			}
+
+			printf("%s\n", full);
 
 			memset(full, 0, sizeof(full));
 			memset(data_name, 0, sizeof(data_name));
