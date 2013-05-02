@@ -1,4 +1,4 @@
-﻿/*
+/*
 * Mobile Storage Analyzer
 *
 * Copyright (C) 2012 Kisung Lee <kisunglee@hanyang.ac.kr>
