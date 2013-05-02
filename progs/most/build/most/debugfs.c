@@ -1,4 +1,4 @@
-﻿/*
+/*
  * debugfs.c --- a program which allows you to attach an ext2fs
  * filesystem and play with it.
  *
