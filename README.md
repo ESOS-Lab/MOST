@@ -3,8 +3,11 @@ Mobile Storage Analyzer
 
 Written by Kisung Lee <kisunglee@hanyang.ac.kr> (based on e2fsprogs).
 
-Reference LEE Kisung and WON Youjip 
-"Smart layers and dumb result: Io characterization of an android-based smartphone" 
+### Acknowledgement:
+ * This work is supported by IT R&D program MKE/KEIT (No. 10041608, Embedded System Software for New-memory based Smart Device). 
+
+### Reference: 
+ * Kisung Lee and Youjip Won "Smart layers and dumb result: Io characterization of an android-based smartphone" 
 In EMSOFT 2012: In Proc. of International Conference on Embedded Software (Oct.7-12 2012). Tampere, Finland 
 <http://www.esos.hanyang.ac.kr/files/publication/conferences/international/Smart_Layers_and_Dumb_Result.pdf>
 
