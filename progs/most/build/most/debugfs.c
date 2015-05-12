@@ -2404,7 +2404,9 @@ int ext_main(int argc, char *argv[])
 	{
 		sprintf(full,"%s%c",full,(char)ch);
 		
-		if((char)ch=='W' || (char)ch=='R')
+		//fix bugs(if action type include A,B,D ->it cannot identify block type)
+		//modify 150512 erlim, chl4651
+		if((char)ch=='W' || (char)ch=='R' || (char)ch =='N)
 		{
 			count=10;
 			i=0;
@@ -2419,6 +2421,13 @@ int ext_main(int argc, char *argv[])
 				{
 					ch=fgetc(fd);
 					sprintf(full,"%s%c",full,(char)ch);
+				}
+				//modify 150512 erlim, chl4651
+				/* solution to str contamination */
+				if(!((char)ch=='A' || (char)ch=='B' || (char)ch=='D'))
+				{
+					str[i] = (char)ch;
+					i++;
 				}
 				
 				str[i]=(char)ch;
