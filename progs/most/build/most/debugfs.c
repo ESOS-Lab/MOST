@@ -2365,6 +2365,7 @@ int debugfs(__u64 block)
 
 	return exit_status;
 }
+static int action_field_flag = 0 ; 	
 
 int ext_main(int argc, char *argv[])
 
@@ -2406,17 +2407,16 @@ int ext_main(int argc, char *argv[])
 		
 		//fix bugs(if action type include A,B,D ->it cannot identify block type)
 		//modify 150512 erlim, chl4651
-		if((char)ch=='W' || (char)ch=='R' || (char)ch =='N)
+		if(((char)ch=='W' || (char)ch=='R' || (char)ch =='N' || (char)ch == 'D') && action_field_flag == 0x01)
 		{
+			/* GalaxyS5 porting to using actiono field 'Discard' */
 			count=10;
 			i=0;
-			
 			do
 			{
 				ch=fgetc(fd);
 				//fprintf(ofp,"%c", (char)ch);	
 				sprintf(full,"%s%c",full,(char)ch);
-
 				if((char)ch=='S')
 				{
 					ch=fgetc(fd);
@@ -2430,14 +2430,19 @@ int ext_main(int argc, char *argv[])
 					i++;
 				}
 				
-				str[i]=(char)ch;
-				i++;
+				//str[i]=(char)ch;
+				//i++;
 			}while(count--);
+			
+			int tmp_cnt = 0 ;	
+			printf("tmp_cnt : ") ;
+			for( tmp_cnt = 0 ; tmp_cnt < i ; tmp_cnt++ ) { 
+				printf("%c" ,str[tmp_cnt]) ; 	
+			}
+			printf("\n") ; 	
 
 			block = (__u64)(atoi(str)/8);
 			
-			printf("block : %d\n", (int)block);
-
 			#ifdef MOST_SDCARD
 				block = block - PARTITION_BLOCK_START;
 			
@@ -2490,8 +2495,16 @@ int ext_main(int argc, char *argv[])
 
 			memset(full, 0, sizeof(full));
 			memset(data_name, 0, sizeof(data_name));
-
-		}
+	
+			/* keonwoo lee modified at 2015/06/29 */ 
+			action_field_flag = 0x00 ; 
+		}else if(((char)ch=='A' || (char)ch=='Q' || (char)ch=='G' || (char)ch=='I' ||
+                        (char)ch=='D'||(char)ch=='C'||(char)ch=='M') && action_field_flag == 0x00){
+                        action_field_flag = 0x01 ;
+                        //ch = fgetc(fd);
+                }
+                /*keonwoo lee modified at 2015/06/29 
+                To checking duplicate between action field and RW Field, check action field flag*/
 		
 	}while((ch=fgetc(fd))!=EOF);
 	
