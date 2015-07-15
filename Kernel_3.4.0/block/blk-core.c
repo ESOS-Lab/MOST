@@ -6,6 +6,7 @@
  * kernel-doc documentation started by NeilBrown <neilb@cse.unsw.edu.au>
  *	-  July2000
  * bio rewrite, highmem i/o, etc, Jens Axboe <axboe@suse.de> - may 2001 
+ * Galaxy S5
  */
 
 /*

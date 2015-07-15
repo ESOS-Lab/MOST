@@ -1,5 +1,6 @@
 #
 # General architecture dependent options
+# Galaxy S5
 #  
 config MOST
 	bool "Enable Mobile Storage Analyzer (MOST)"
