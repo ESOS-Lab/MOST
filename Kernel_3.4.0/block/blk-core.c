@@ -5,7 +5,7 @@
  * Queue request tables / lock, selectable elevator, Jens Axboe <axboe@suse.de>
  * kernel-doc documentation started by NeilBrown <neilb@cse.unsw.edu.au>
  *	-  July2000
- * bio rewrite, highmem i/o, etc, Jens Axboe <axboe@suse.de> - may 2001
+ * bio rewrite, highmem i/o, etc, Jens Axboe <axboe@suse.de> - may 2001 
  */
 
 /*

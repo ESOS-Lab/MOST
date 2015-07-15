@@ -1,6 +1,6 @@
 #
 # General architecture dependent options
-#
+#  
 config MOST
 	bool "Enable Mobile Storage Analyzer (MOST)"
  
