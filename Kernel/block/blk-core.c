@@ -1623,86 +1623,68 @@ void submit_bio(int rw, struct bio *bio)
 
 
 		#ifdef CONFIG_MOST
-		//bdevname(bio->bi_bdev, b);
-		//if(!strncmp(b, "mmcblk1p1", 9))
 		{
 			int tmp_file = 0;
 
-			if(bio && bio->bi_io_vec && bio->bi_io_vec->bv_page && bio->bi_io_vec->bv_page->mapping)
+			if (bio && bio->bi_io_vec && bio->bi_io_vec->bv_page && bio->bi_io_vec->bv_page->mapping)
 			{
 				struct inode * inode;
 				struct list_head *next;
-				struct dentry *dentry;
-				unsigned char *name;
+				struct dentry * dentry;
+				unsigned char * name;
 				int len;
-				
+
 				inode = NULL;
 				next = NULL;
 				dentry = NULL;
-				
-				if(bio->bi_io_vec->bv_page->mapping->host)
+
+				if (bio->bi_io_vec->bv_page->mapping->host)
 					inode = bio->bi_io_vec->bv_page->mapping->host;
 
-				if(PageAnon( bio->bi_io_vec->bv_page))
+				if (PageAnon(bio->bi_io_vec->bv_page))
 					goto final;
-								
 
-				if(inode && inode->i_ino!=0 && inode->i_dentry.next)
+				if (inode && inode->i_ino != 0 && inode->i_dentry.next)
 				{	
 					next = inode->i_dentry.next;
 
 					dentry = list_entry(next, struct dentry, d_alias);
 
-					if(dentry)
+					if (dentry)
 					{
-			
 						len = strlen(dentry->d_iname);
-						
+
 						strcpy(gblk_req_table[gblk_current].d_iname, dentry->d_iname);
 
-						if(rw & WRITE)
-							
-							if(dentry->d_iname[len-8]=='-' && dentry->d_iname[len-7]=='j')
-							{
-								//printk("submit_bio : (%s)(%s)\n", current->comm, dentry->d_iname);
+						if (rw & WRITE)
+						{
+							if (dentry->d_iname[len-8] == '-' && dentry->d_iname[len-7] == 'j')
 								tmp_file = 100000;
-							}
-							else if(dentry->d_iname[len-12]=='b' && dentry->d_iname[len-11]=='-' && dentry->d_iname[len-10]=='m' && dentry->d_iname[len-9]=='j')
-							{
-								//printk("submit_bio : (%s)(%s)\n", current->comm, dentry->d_iname);
+							
+							else if (dentry->d_iname[len-12] == 'b' && dentry->d_iname[len-11] == '-' && dentry->d_iname[len-10] == 'm' && dentry->d_iname[len-9] == 'j')
 								tmp_file = 200000;
-							}
-							else if(dentry->d_iname[len-4]=='.' && dentry->d_iname[len-3]=='b' && dentry->d_iname[len-2]=='a' && dentry->d_iname[len-1]=='k')
-							{
-								//printk("submit_bio : (%s)(%s)\n", current->comm, dentry->d_iname);
+							
+							else if (dentry->d_iname[len-4] == '.' && dentry->d_iname[len-3] == 'b' && dentry->d_iname[len-2] == 'a' && dentry->d_iname[len-1] == 'k')
 								tmp_file = 300000;
-							}
-							else if(dentry->d_iname[len-3]=='t' && dentry->d_iname[len-2]=='m' && dentry->d_iname[len-1]=='p')
-							{
-								//printk("submit_bio : (%s)(%s)\n", current->comm, dentry->d_iname);
+							
+							else if (dentry->d_iname[len-3] == 't' && dentry->d_iname[len-2] == 'm' && dentry->d_iname[len-1] == 'p')
 								tmp_file = 400000;
-							}
-							else if(dentry->d_iname[len-3]=='.' && dentry->d_iname[len-2]=='d' && dentry->d_iname[len-1]=='b')
-							{
-								//printk("submit_bio : (%s)(%s)\n", current->comm, dentry->d_iname);
+							
+							else if (dentry->d_iname[len-3] == '.' && dentry->d_iname[len-2] == 'd' && dentry->d_iname[len-1] == 'b')
 								tmp_file = 500000;
-							}
-							
-							
 						}
 					}
+				}
 			}
-
-
 			final:
-				
+
 			gblk_req_table[gblk_current].pid = task_pid_nr(current);
 			gblk_req_table[gblk_current].temp_file = tmp_file;
 			gblk_req_table[gblk_current].sector = bio->bi_sector;
 			gblk_req_table[gblk_current].count = count;
 
 			gblk_current++;
-			if(gblk_current == MOST_TABLE_SIZE)
+			if (gblk_current == MOST_TABLE_SIZE)
 				gblk_current=0;
 		}
 		#endif

@@ -241,23 +241,23 @@ static void __blk_add_trace(struct blk_trace *bt, sector_t sector, int bytes,
 	cpu = raw_smp_processor_id();
 
 	#ifdef CONFIG_MOST
-	loop_count = MOST_TABLE_SIZE-1;
+	loop_count = MOST_TABLE_SIZE - 1;
 
-	if(gblk_current==0)
-		gblk_index = MOST_TABLE_SIZE-1;
+	if (gblk_current == 0)
+		gblk_index = MOST_TABLE_SIZE - 1;
 	else
-		gblk_index = gblk_current -1;
+		gblk_index = gblk_current - 1;
 
-	if(sector >= 2048)
+	if (sector >= 2048)
 		sector_trans = sector - 2048;
 	else
-		sector_trans =0;
+		sector_trans = 0;
 		
 	temp_file = 0;
 		
 	do
 	{		 
-		if( sector_trans == gblk_req_table[gblk_index].sector)
+		if (sector_trans == gblk_req_table[gblk_index].sector)
 		{
 			pid = gblk_req_table[gblk_index].pid;
 			temp_file = gblk_req_table[gblk_index].temp_file;
@@ -268,11 +268,11 @@ static void __blk_add_trace(struct blk_trace *bt, sector_t sector, int bytes,
 			break;
 		}
 
-		if(gblk_index==0)
-			gblk_index=MOST_TABLE_SIZE-1;
+		if (gblk_index == 0)
+			gblk_index = MOST_TABLE_SIZE - 1;
 		else
 			gblk_index--;
-	}while(loop_count--);
+	} while (loop_count--);
 	#endif
 
 	if (blk_tracer) {
@@ -297,7 +297,7 @@ static void __blk_add_trace(struct blk_trace *bt, sector_t sector, int bytes,
 	local_irq_save(flags);
 
 	#ifdef CONFIG_MOST
-	if(tsk_orig!=NULL)
+	if (tsk_orig != NULL)
 	{
 		tsk_orig->btrace_seq = blktrace_seq;
 		trace_note(bt, pid , BLK_TN_PROCESS, tsk_orig->comm, sizeof(tsk_orig->comm));
