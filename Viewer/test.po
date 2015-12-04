@@ -1,0 +1,2333 @@
+    0.000000000	A	WS	23004888	   8	4767	     IntentService[]	M
+    0.000111615	Q	WS	23004888	   8	4767	     IntentService[]	M
+    0.000204740	G	WS	23004888	   8	4767	     IntentService[]	M
+    0.000340209	I	WS	23004888	   8	4767	     IntentService[]	M
+    0.000492553	D	WAS	23004888	   8	4767	     IntentService[]	M
+    0.004244740	C	WAS	23004888	   8	4767	     IntentService[]	M
+    0.004447500	A	WS	 4079792	   8	 137	     jbd2/mmcblk0p28	J
+    0.004539427	Q	WS	 4079792	   8	 137	     jbd2/mmcblk0p28	J
+    0.004596302	G	WS	 4079792	   8	 137	     jbd2/mmcblk0p28	J
+    0.004722813	A	WS	 4079800	   8	 137	     jbd2/mmcblk0p28	J
+    0.004773126	Q	WS	 4079800	   8	 137	     jbd2/mmcblk0p28	J
+    0.004819688	M	WS	 4079800	   8	 137	     jbd2/mmcblk0p28	J
+    0.004907501	A	WS	 4079808	   8	 137	     jbd2/mmcblk0p28	J
+    0.004951511	Q	WS	 4079808	   8	 137	     jbd2/mmcblk0p28	J
+    0.005033126	M	WS	 4079808	   8	 137	     jbd2/mmcblk0p28	J
+    0.005081563	A	WS	 4079816	   8	 137	     jbd2/mmcblk0p28	J
+    0.005127970	Q	WS	 4079816	   8	 137	     jbd2/mmcblk0p28	J
+    0.005213178	M	WS	 4079816	   8	 137	     jbd2/mmcblk0p28	J
+    0.005263282	A	WS	 4079824	   8	 137	     jbd2/mmcblk0p28	J
+    0.005308751	Q	WS	 4079824	   8	 137	     jbd2/mmcblk0p28	J
+    0.005418647	M	WS	 4079824	   8	 137	     jbd2/mmcblk0p28	J
+    0.005470365	A	WS	 4079832	   8	 137	     jbd2/mmcblk0p28	J
+    0.005520522	Q	WS	 4079832	   8	 137	     jbd2/mmcblk0p28	J
+    0.005615626	M	WS	 4079832	   8	 137	     jbd2/mmcblk0p28	J
+    0.005685938	A	WS	 4079840	   8	 137	     jbd2/mmcblk0p28	J
+    0.005759115	Q	WS	 4079840	   8	 137	     jbd2/mmcblk0p28	J
+    0.005893438	M	WS	 4079840	   8	 137	     jbd2/mmcblk0p28	J
+    0.005967345	A	WS	 4079848	   8	 137	     jbd2/mmcblk0p28	J
+    0.006040730	Q	WS	 4079848	   8	 137	     jbd2/mmcblk0p28	J
+    0.006165574	M	WS	 4079848	   8	 137	     jbd2/mmcblk0p28	J
+    0.006227709	A	WS	 4079856	   8	 137	     jbd2/mmcblk0p28	J
+    0.006299636	Q	WS	 4079856	   8	 137	     jbd2/mmcblk0p28	J
+    0.006432813	M	WS	 4079856	   8	 137	     jbd2/mmcblk0p28	J
+    0.006504376	A	WS	 4079864	   8	 137	     jbd2/mmcblk0p28	J
+    0.006570522	Q	WS	 4079864	   8	 137	     jbd2/mmcblk0p28	J
+    0.006634844	M	WS	 4079864	   8	 137	     jbd2/mmcblk0p28	J
+    0.006768699	A	WS	 4079872	   8	 137	     jbd2/mmcblk0p28	J
+    0.006835001	Q	WS	 4079872	   8	 137	     jbd2/mmcblk0p28	J
+    0.006907501	M	WS	 4079872	   8	 137	     jbd2/mmcblk0p28	J
+    0.007067761	A	WS	 4079880	   8	 137	     jbd2/mmcblk0p28	J
+    0.007138334	Q	WS	 4079880	   8	 137	     jbd2/mmcblk0p28	J
+    0.007201147	M	WS	 4079880	   8	 137	     jbd2/mmcblk0p28	J
+    0.007289115	A	WS	 4079888	   8	 137	     jbd2/mmcblk0p28	J
+    0.007333959	Q	WS	 4079888	   8	 137	     jbd2/mmcblk0p28	J
+    0.007377032	M	WS	 4079888	   8	 137	     jbd2/mmcblk0p28	J
+    0.007475574	I	WS	 4079792	 104	 137	     jbd2/mmcblk0p28	J
+    0.007717657	D	WAS	 4079792	 104	 137	     jbd2/mmcblk0p28	J
+    0.011868959	C	WAS	 4079792	 104	 137	     jbd2/mmcblk0p28	J
+    0.012012605	A	WBS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.012112032	Q	WBS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.012298073	G	WBS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.012412865	I	WBS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.012646250	D	WS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.013625625	C	WS	 4079896	   8	 137	     jbd2/mmcblk0p28	J
+    0.013739323	C	WS	 4079896	   0	 137	     jbd2/mmcblk0p28	J
+    0.068516615	A	WS	22968456	   8	4769	     IntentService[]	M
+    0.068656823	Q	WS	22968456	   8	4769	     IntentService[]	M
+    0.068722136	G	WS	22968456	   8	4769	     IntentService[]	M
+    0.068834271	I	WS	22968456	   8	4769	     IntentService[]	M
+    0.068950834	D	WAS	22968456	   8	4769	     IntentService[]	M
+    0.069932136	C	WAS	22968456	   8	4769	     IntentService[]	M
+    0.070093855	A	WS	 4079904	   8	 137	     jbd2/mmcblk0p28	J
+    0.070171928	Q	WS	 4079904	   8	 137	     jbd2/mmcblk0p28	J
+    0.070222500	G	WS	 4079904	   8	 137	     jbd2/mmcblk0p28	J
+    0.070308907	A	WS	 4079912	   8	 137	     jbd2/mmcblk0p28	J
+    0.070373073	Q	WS	 4079912	   8	 137	     jbd2/mmcblk0p28	J
+    0.070447761	M	WS	 4079912	   8	 137	     jbd2/mmcblk0p28	J
+    0.070589480	A	WS	 4079920	   8	 137	     jbd2/mmcblk0p28	J
+    0.070673646	Q	WS	 4079920	   8	 137	     jbd2/mmcblk0p28	J
+    0.070826771	M	WS	 4079920	   8	 137	     jbd2/mmcblk0p28	J
+    0.070899740	A	WS	 4079928	   8	 137	     jbd2/mmcblk0p28	J
+    0.070955730	Q	WS	 4079928	   8	 137	     jbd2/mmcblk0p28	J
+    0.071045000	M	WS	 4079928	   8	 137	     jbd2/mmcblk0p28	J
+    0.071095625	A	WS	 4079936	   8	 137	     jbd2/mmcblk0p28	J
+    0.071177917	Q	WS	 4079936	   8	 137	     jbd2/mmcblk0p28	J
+    0.071222188	M	WS	 4079936	   8	 137	     jbd2/mmcblk0p28	J
+    0.071269167	A	WS	 4079944	   8	 137	     jbd2/mmcblk0p28	J
+    0.071348750	Q	WS	 4079944	   8	 137	     jbd2/mmcblk0p28	J
+    0.071397188	M	WS	 4079944	   8	 137	     jbd2/mmcblk0p28	J
+    0.071446511	A	WS	 4079952	   8	 137	     jbd2/mmcblk0p28	J
+    0.071574115	Q	WS	 4079952	   8	 137	     jbd2/mmcblk0p28	J
+    0.071647969	M	WS	 4079952	   8	 137	     jbd2/mmcblk0p28	J
+    0.071719688	A	WS	 4079960	   8	 137	     jbd2/mmcblk0p28	J
+    0.071873907	Q	WS	 4079960	   8	 137	     jbd2/mmcblk0p28	J
+    0.071959584	M	WS	 4079960	   8	 137	     jbd2/mmcblk0p28	J
+    0.072065834	A	WS	 4079968	   8	 137	     jbd2/mmcblk0p28	J
+    0.072183229	Q	WS	 4079968	   8	 137	     jbd2/mmcblk0p28	J
+    0.072237917	M	WS	 4079968	   8	 137	     jbd2/mmcblk0p28	J
+    0.072296667	A	WS	 4079976	   8	 137	     jbd2/mmcblk0p28	J
+    0.072458594	Q	WS	 4079976	   8	 137	     jbd2/mmcblk0p28	J
+    0.072601146	M	WS	 4079976	   8	 137	     jbd2/mmcblk0p28	J
+    0.072656511	A	WS	 4079984	   8	 137	     jbd2/mmcblk0p28	J
+    0.072750209	Q	WS	 4079984	   8	 137	     jbd2/mmcblk0p28	J
+    0.072803334	M	WS	 4079984	   8	 137	     jbd2/mmcblk0p28	J
+    0.072861615	A	WS	 4079992	   8	 137	     jbd2/mmcblk0p28	J
+    0.073053073	Q	WS	 4079992	   8	 137	     jbd2/mmcblk0p28	J
+    0.073165417	M	WS	 4079992	   8	 137	     jbd2/mmcblk0p28	J
+    0.073232917	I	WS	 4079904	  96	 137	     jbd2/mmcblk0p28	J
+    0.073373906	D	WAS	 4079904	  96	 137	     jbd2/mmcblk0p28	J
+    0.076800053	C	WAS	 4079904	  96	 137	     jbd2/mmcblk0p28	J
+    0.077018855	A	WBS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.077063594	Q	WBS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.077116355	G	WBS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.077218334	I	WBS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.077373178	D	WS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.078073438	C	WS	 4080000	   8	 137	     jbd2/mmcblk0p28	J
+    0.078165469	C	WS	 4080000	   0	 137	     jbd2/mmcblk0p28	J
+    0.095398178	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095445001	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095591667	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095695053	A	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095775522	Q	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095826928	G	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095880990	A	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.095965469	Q	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.096015469	M	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.096152813	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.096257240	I	WS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.096325469	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.096422553	D	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.097858699	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.097928907	C	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.099111042	Q	WBS	       0	   0	 135	         flush-179:0	M
+    0.099159428	G	WBS	       0	   0	 135	         flush-179:0	M
+    0.099208178	I	WBS	       0	   0	 135	         flush-179:0	M
+    0.099409948	C	WS	       0	   0	 135	         flush-179:0	M
+    0.099695573	A	WS	 4080008	   8	 137	     jbd2/mmcblk0p28	J
+    0.099765105	Q	WS	 4080008	   8	 137	     jbd2/mmcblk0p28	J
+    0.099897396	G	WS	 4080008	   8	 137	     jbd2/mmcblk0p28	J
+    0.099953959	A	WS	 4080016	   8	 137	     jbd2/mmcblk0p28	J
+    0.100040469	Q	WS	 4080016	   8	 137	     jbd2/mmcblk0p28	J
+    0.100094532	M	WS	 4080016	   8	 137	     jbd2/mmcblk0p28	J
+    0.100143230	A	WS	 4080024	   8	 137	     jbd2/mmcblk0p28	J
+    0.100219428	Q	WS	 4080024	   8	 137	     jbd2/mmcblk0p28	J
+    0.100263490	M	WS	 4080024	   8	 137	     jbd2/mmcblk0p28	J
+    0.100342813	A	WS	 4080032	   8	 137	     jbd2/mmcblk0p28	J
+    0.100386407	Q	WS	 4080032	   8	 137	     jbd2/mmcblk0p28	J
+    0.100430625	M	WS	 4080032	   8	 137	     jbd2/mmcblk0p28	J
+    0.100526563	A	WS	 4080040	   8	 137	     jbd2/mmcblk0p28	J
+    0.100592292	Q	WS	 4080040	   8	 137	     jbd2/mmcblk0p28	J
+    0.100656563	M	WS	 4080040	   8	 137	     jbd2/mmcblk0p28	J
+    0.100788698	A	WS	 4080048	   8	 137	     jbd2/mmcblk0p28	J
+    0.100866563	Q	WS	 4080048	   8	 137	     jbd2/mmcblk0p28	J
+    0.100967865	M	WS	 4080048	   8	 137	     jbd2/mmcblk0p28	J
+    0.101130782	A	WS	 4080056	   8	 137	     jbd2/mmcblk0p28	J
+    0.101186927	Q	WS	 4080056	   8	 137	     jbd2/mmcblk0p28	J
+    0.101250573	M	WS	 4080056	   8	 137	     jbd2/mmcblk0p28	J
+    0.101354740	A	WS	 4080064	   8	 137	     jbd2/mmcblk0p28	J
+    0.101400625	Q	WS	 4080064	   8	 137	     jbd2/mmcblk0p28	J
+    0.101444323	M	WS	 4080064	   8	 137	     jbd2/mmcblk0p28	J
+    0.101520938	A	WS	 4080072	   8	 137	     jbd2/mmcblk0p28	J
+    0.101561823	Q	WS	 4080072	   8	 137	     jbd2/mmcblk0p28	J
+    0.101602917	M	WS	 4080072	   8	 137	     jbd2/mmcblk0p28	J
+    0.101678855	A	WS	 4080080	   8	 137	     jbd2/mmcblk0p28	J
+    0.101743021	Q	WS	 4080080	   8	 137	     jbd2/mmcblk0p28	J
+    0.101805261	M	WS	 4080080	   8	 137	     jbd2/mmcblk0p28	J
+    0.101873073	A	WS	 4080088	   8	 137	     jbd2/mmcblk0p28	J
+    0.101999896	Q	WS	 4080088	   8	 137	     jbd2/mmcblk0p28	J
+    0.102075313	M	WS	 4080088	   8	 137	     jbd2/mmcblk0p28	J
+    0.102229584	I	WS	 4080008	  88	 137	     jbd2/mmcblk0p28	J
+    0.102342709	D	WAS	 4080008	  88	 137	     jbd2/mmcblk0p28	J
+    0.103669375	C	WAS	 4080008	  88	 137	     jbd2/mmcblk0p28	J
+    0.103846094	A	WBS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.103899531	Q	WBS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.103956094	G	WBS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.104080573	I	WBS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.104309427	D	WS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.104998699	C	WS	 4080096	   8	 137	     jbd2/mmcblk0p28	J
+    0.105085678	C	WS	 4080096	   0	 137	     jbd2/mmcblk0p28	J
+    0.105322136	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.105396251	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.105538855	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.105633907	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.105835001	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.106547813	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.106663074	Q	WBS	       0	   0	 135	         flush-179:0	M
+    0.106762657	G	WBS	       0	   0	 135	         flush-179:0	M
+    0.106822344	I	WBS	       0	   0	 135	         flush-179:0	M
+    0.106970365	C	WS	       0	   0	 135	         flush-179:0	M
+    0.107166511	A	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107188126	A	WS	23004896	   8	4769	     IntentService[]	M
+    0.107193490	Q	WS	23004896	   8	4769	     IntentService[]	M
+    0.107204219	G	WS	23004896	   8	4769	     IntentService[]	M
+    0.107215261	I	WS	23004896	   8	4769	     IntentService[]	M
+    0.107453803	Q	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107512292	D	WAS	23004896	   8	4769	     IntentService[]	M
+    0.107648751	G	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107710626	A	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107752865	Q	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107834011	G	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107887136	I	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.107940938	I	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.108031771	D	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.108076719	D	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.108321198	C	WAS	23004896	   8	4769	     IntentService[]	M
+    0.108468438	A	WS	 4080104	   8	 137	     jbd2/mmcblk0p28	J
+    0.108514271	Q	WS	 4080104	   8	 137	     jbd2/mmcblk0p28	J
+    0.108561823	G	WS	 4080104	   8	 137	     jbd2/mmcblk0p28	J
+    0.108643542	A	WS	 4080112	   8	 137	     jbd2/mmcblk0p28	J
+    0.108687501	Q	WS	 4080112	   8	 137	     jbd2/mmcblk0p28	J
+    0.108733542	M	WS	 4080112	   8	 137	     jbd2/mmcblk0p28	J
+    0.108815209	A	WS	 4080120	   8	 137	     jbd2/mmcblk0p28	J
+    0.108860365	Q	WS	 4080120	   8	 137	     jbd2/mmcblk0p28	J
+    0.108905365	M	WS	 4080120	   8	 137	     jbd2/mmcblk0p28	J
+    0.108983282	A	WS	 4080128	   8	 137	     jbd2/mmcblk0p28	J
+    0.109027501	Q	WS	 4080128	   8	 137	     jbd2/mmcblk0p28	J
+    0.109073021	M	WS	 4080128	   8	 137	     jbd2/mmcblk0p28	J
+    0.109166928	A	WS	 4080136	   8	 137	     jbd2/mmcblk0p28	J
+    0.109221980	Q	WS	 4080136	   8	 137	     jbd2/mmcblk0p28	J
+    0.109264011	M	WS	 4080136	   8	 137	     jbd2/mmcblk0p28	J
+    0.109345261	A	WS	 4080144	   8	 137	     jbd2/mmcblk0p28	J
+    0.109387657	Q	WS	 4080144	   8	 137	     jbd2/mmcblk0p28	J
+    0.109431355	C	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.109452136	C	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    0.109497084	Q	WBS	       0	   0	 135	         flush-179:0	M
+    0.109502396	G	WBS	       0	   0	 135	         flush-179:0	M
+    0.109509844	I	WBS	       0	   0	 135	         flush-179:0	M
+    0.109594011	C	WS	       0	   0	 135	         flush-179:0	M
+    0.109657396	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.109661042	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.109667761	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.109677396	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.109695053	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.109994063	M	WS	 4080144	   8	 137	     jbd2/mmcblk0p28	J
+    0.110042344	A	WS	 4080152	   8	 137	     jbd2/mmcblk0p28	J
+    0.110130209	Q	WS	 4080152	   8	 137	     jbd2/mmcblk0p28	J
+    0.110189011	M	WS	 4080152	   8	 137	     jbd2/mmcblk0p28	J
+    0.110248750	A	WS	 4080160	   8	 137	     jbd2/mmcblk0p28	J
+    0.110313073	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    0.110360938	Q	WBS	       0	   0	 135	         flush-179:0	M
+    0.110366459	G	WBS	       0	   0	 135	         flush-179:0	M
+    0.110372813	I	WBS	       0	   0	 135	         flush-179:0	M
+    0.110453334	C	WS	       0	   0	 135	         flush-179:0	M
+    0.110546250	Q	WS	 4080160	   8	 137	     jbd2/mmcblk0p28	J
+    0.110630573	M	WS	 4080160	   8	 137	     jbd2/mmcblk0p28	J
+    0.110679063	A	WS	 4080168	   8	 137	     jbd2/mmcblk0p28	J
+    0.110759427	Q	WS	 4080168	   8	 137	     jbd2/mmcblk0p28	J
+    0.110804375	M	WS	 4080168	   8	 137	     jbd2/mmcblk0p28	J
+    0.110851198	I	WS	 4080104	  72	 137	     jbd2/mmcblk0p28	J
+    0.110952396	D	WAS	 4080104	  72	 137	     jbd2/mmcblk0p28	J
+    0.114433333	C	WAS	 4080104	  72	 137	     jbd2/mmcblk0p28	J
+    0.114551823	A	WBS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.114650052	Q	WBS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.114730209	G	WBS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.114843126	I	WBS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.115010001	D	WS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.115757709	C	WS	 4080176	   8	 137	     jbd2/mmcblk0p28	J
+    0.115824949	C	WS	 4080176	   0	 137	     jbd2/mmcblk0p28	J
+    0.240688594	A	WS	23004544	   8	 814	            Binder_1	M
+    0.240768386	Q	WS	23004544	   8	 814	            Binder_1	M
+    0.240820052	G	WS	23004544	   8	 814	            Binder_1	M
+    0.240912657	I	WS	23004544	   8	 814	            Binder_1	M
+    0.241005000	D	WAS	23004544	   8	 814	            Binder_1	M
+    0.241824948	C	WAS	23004544	   8	 814	            Binder_1	M
+    0.242012292	A	WS	 4080184	   8	 137	     jbd2/mmcblk0p28	J
+    0.242056667	Q	WS	 4080184	   8	 137	     jbd2/mmcblk0p28	J
+    0.242141094	G	WS	 4080184	   8	 137	     jbd2/mmcblk0p28	J
+    0.242191042	A	WS	 4080192	   8	 137	     jbd2/mmcblk0p28	J
+    0.242237657	Q	WS	 4080192	   8	 137	     jbd2/mmcblk0p28	J
+    0.242319740	M	WS	 4080192	   8	 137	     jbd2/mmcblk0p28	J
+    0.242367709	A	WS	 4080200	   8	 137	     jbd2/mmcblk0p28	J
+    0.242445365	Q	WS	 4080200	   8	 137	     jbd2/mmcblk0p28	J
+    0.242487500	M	WS	 4080200	   8	 137	     jbd2/mmcblk0p28	J
+    0.242565469	A	WS	 4080208	   8	 137	     jbd2/mmcblk0p28	J
+    0.242609427	Q	WS	 4080208	   8	 137	     jbd2/mmcblk0p28	J
+    0.242652813	M	WS	 4080208	   8	 137	     jbd2/mmcblk0p28	J
+    0.242730157	A	WS	 4080216	   8	 137	     jbd2/mmcblk0p28	J
+    0.242772188	Q	WS	 4080216	   8	 137	     jbd2/mmcblk0p28	J
+    0.242814375	M	WS	 4080216	   8	 137	     jbd2/mmcblk0p28	J
+    0.242858802	A	WS	 4080224	   8	 137	     jbd2/mmcblk0p28	J
+    0.242937136	Q	WS	 4080224	   8	 137	     jbd2/mmcblk0p28	J
+    0.242983490	M	WS	 4080224	   8	 137	     jbd2/mmcblk0p28	J
+    0.243029167	A	WS	 4080232	   8	 137	     jbd2/mmcblk0p28	J
+    0.243109427	Q	WS	 4080232	   8	 137	     jbd2/mmcblk0p28	J
+    0.243155521	M	WS	 4080232	   8	 137	     jbd2/mmcblk0p28	J
+    0.243199323	A	WS	 4080240	   8	 137	     jbd2/mmcblk0p28	J
+    0.243275990	Q	WS	 4080240	   8	 137	     jbd2/mmcblk0p28	J
+    0.243319271	M	WS	 4080240	   8	 137	     jbd2/mmcblk0p28	J
+    0.243363281	A	WS	 4080248	   8	 137	     jbd2/mmcblk0p28	J
+    0.243436667	Q	WS	 4080248	   8	 137	     jbd2/mmcblk0p28	J
+    0.243481302	M	WS	 4080248	   8	 137	     jbd2/mmcblk0p28	J
+    0.243528281	A	WS	 4080256	   8	 137	     jbd2/mmcblk0p28	J
+    0.243612656	Q	WS	 4080256	   8	 137	     jbd2/mmcblk0p28	J
+    0.243655365	M	WS	 4080256	   8	 137	     jbd2/mmcblk0p28	J
+    0.243707709	A	WS	 4080264	   8	 137	     jbd2/mmcblk0p28	J
+    0.243789063	Q	WS	 4080264	   8	 137	     jbd2/mmcblk0p28	J
+    0.243841615	M	WS	 4080264	   8	 137	     jbd2/mmcblk0p28	J
+    0.243933854	I	WS	 4080184	  88	 137	     jbd2/mmcblk0p28	J
+    0.244013542	D	WAS	 4080184	  88	 137	     jbd2/mmcblk0p28	J
+    0.247199584	C	WAS	 4080184	  88	 137	     jbd2/mmcblk0p28	J
+    0.247318803	A	WBS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.247361719	Q	WBS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.247442396	G	WBS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.247486459	I	WBS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.247619740	D	WS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.248325157	C	WS	 4080272	   8	 137	     jbd2/mmcblk0p28	J
+    0.248379323	C	WS	 4080272	   0	 137	     jbd2/mmcblk0p28	J
+    0.871981667	A	WS	22968464	   8	3071	     pool-1-thread-1	M
+    0.872175990	Q	WS	22968464	   8	3071	     pool-1-thread-1	M
+    0.872374063	G	WS	22968464	   8	3071	     pool-1-thread-1	M
+    0.872454792	I	WS	22968464	   8	3071	     pool-1-thread-1	M
+    0.872714115	D	WAS	22968464	   8	3071	     pool-1-thread-1	M
+    0.876326563	C	WAS	22968464	   8	3071	     pool-1-thread-1	M
+    0.876585209	A	WS	 4080280	   8	 137	     jbd2/mmcblk0p28	J
+    0.876692969	Q	WS	 4080280	   8	 137	     jbd2/mmcblk0p28	J
+    0.876855782	G	WS	 4080280	   8	 137	     jbd2/mmcblk0p28	J
+    0.876959844	A	WS	 4080288	   8	 137	     jbd2/mmcblk0p28	J
+    0.877049792	Q	WS	 4080288	   8	 137	     jbd2/mmcblk0p28	J
+    0.877101719	M	WS	 4080288	   8	 137	     jbd2/mmcblk0p28	J
+    0.877191042	A	WS	 4080296	   8	 137	     jbd2/mmcblk0p28	J
+    0.877249011	Q	WS	 4080296	   8	 137	     jbd2/mmcblk0p28	J
+    0.877333438	M	WS	 4080296	   8	 137	     jbd2/mmcblk0p28	J
+    0.877520105	A	WS	 4080304	   8	 137	     jbd2/mmcblk0p28	J
+    0.877573646	Q	WS	 4080304	   8	 137	     jbd2/mmcblk0p28	J
+    0.877624115	M	WS	 4080304	   8	 137	     jbd2/mmcblk0p28	J
+    0.877710834	A	WS	 4080312	   8	 137	     jbd2/mmcblk0p28	J
+    0.877757865	Q	WS	 4080312	   8	 137	     jbd2/mmcblk0p28	J
+    0.877812605	M	WS	 4080312	   8	 137	     jbd2/mmcblk0p28	J
+    0.878042709	A	WS	 4080320	   8	 137	     jbd2/mmcblk0p28	J
+    0.878155782	Q	WS	 4080320	   8	 137	     jbd2/mmcblk0p28	J
+    0.878203750	M	WS	 4080320	   8	 137	     jbd2/mmcblk0p28	J
+    0.878251875	A	WS	 4080328	   8	 137	     jbd2/mmcblk0p28	J
+    0.878335678	Q	WS	 4080328	   8	 137	     jbd2/mmcblk0p28	J
+    0.878383490	M	WS	 4080328	   8	 137	     jbd2/mmcblk0p28	J
+    0.878479375	A	WS	 4080336	   8	 137	     jbd2/mmcblk0p28	J
+    0.878634688	Q	WS	 4080336	   8	 137	     jbd2/mmcblk0p28	J
+    0.878682344	M	WS	 4080336	   8	 137	     jbd2/mmcblk0p28	J
+    0.878767709	A	WS	 4080344	   8	 137	     jbd2/mmcblk0p28	J
+    0.878815625	Q	WS	 4080344	   8	 137	     jbd2/mmcblk0p28	J
+    0.878864167	M	WS	 4080344	   8	 137	     jbd2/mmcblk0p28	J
+    0.878948438	A	WS	 4080352	   8	 137	     jbd2/mmcblk0p28	J
+    0.878993125	Q	WS	 4080352	   8	 137	     jbd2/mmcblk0p28	J
+    0.879039375	M	WS	 4080352	   8	 137	     jbd2/mmcblk0p28	J
+    0.879123334	A	WS	 4080360	   8	 137	     jbd2/mmcblk0p28	J
+    0.879170000	Q	WS	 4080360	   8	 137	     jbd2/mmcblk0p28	J
+    0.879217136	M	WS	 4080360	   8	 137	     jbd2/mmcblk0p28	J
+    0.879304740	I	WS	 4080280	  88	 137	     jbd2/mmcblk0p28	J
+    0.879385365	D	WAS	 4080280	  88	 137	     jbd2/mmcblk0p28	J
+    0.881268959	C	WAS	 4080280	  88	 137	     jbd2/mmcblk0p28	J
+    0.881418386	A	WBS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.881463386	Q	WBS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.881510469	G	WBS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.881592656	I	WBS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.881751927	D	WS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.882410833	C	WS	 4080368	   8	 137	     jbd2/mmcblk0p28	J
+    0.882467292	C	WS	 4080368	   0	 137	     jbd2/mmcblk0p28	J
+    1.392046667	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392121823	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392262188	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392347448	A	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392419635	Q	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392553802	G	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392640104	A	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392712656	Q	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392786875	M	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.392871510	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.393020677	I	WS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.393114167	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.393222083	D	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.397661407	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.397767605	C	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.397883073	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.398018542	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.398100000	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.398293750	C	WS	       0	   0	 135	         flush-179:0	M
+    1.398540834	A	WS	 4080376	   8	 137	     jbd2/mmcblk0p28	J
+    1.398590677	Q	WS	 4080376	   8	 137	     jbd2/mmcblk0p28	J
+    1.398679584	G	WS	 4080376	   8	 137	     jbd2/mmcblk0p28	J
+    1.398731667	A	WS	 4080384	   8	 137	     jbd2/mmcblk0p28	J
+    1.398817761	Q	WS	 4080384	   8	 137	     jbd2/mmcblk0p28	J
+    1.398868177	M	WS	 4080384	   8	 137	     jbd2/mmcblk0p28	J
+    1.398958802	A	WS	 4080392	   8	 137	     jbd2/mmcblk0p28	J
+    1.399007604	Q	WS	 4080392	   8	 137	     jbd2/mmcblk0p28	J
+    1.399094844	M	WS	 4080392	   8	 137	     jbd2/mmcblk0p28	J
+    1.399146667	A	WS	 4080400	   8	 137	     jbd2/mmcblk0p28	J
+    1.399195313	Q	WS	 4080400	   8	 137	     jbd2/mmcblk0p28	J
+    1.399281407	M	WS	 4080400	   8	 137	     jbd2/mmcblk0p28	J
+    1.399330990	A	WS	 4080408	   8	 137	     jbd2/mmcblk0p28	J
+    1.399378594	Q	WS	 4080408	   8	 137	     jbd2/mmcblk0p28	J
+    1.399464323	M	WS	 4080408	   8	 137	     jbd2/mmcblk0p28	J
+    1.399515209	A	WS	 4080416	   8	 137	     jbd2/mmcblk0p28	J
+    1.399562865	Q	WS	 4080416	   8	 137	     jbd2/mmcblk0p28	J
+    1.399649792	M	WS	 4080416	   8	 137	     jbd2/mmcblk0p28	J
+    1.399700313	A	WS	 4080424	   8	 137	     jbd2/mmcblk0p28	J
+    1.399748021	Q	WS	 4080424	   8	 137	     jbd2/mmcblk0p28	J
+    1.399834427	M	WS	 4080424	   8	 137	     jbd2/mmcblk0p28	J
+    1.399884167	A	WS	 4080432	   8	 137	     jbd2/mmcblk0p28	J
+    1.399931719	Q	WS	 4080432	   8	 137	     jbd2/mmcblk0p28	J
+    1.400018542	M	WS	 4080432	   8	 137	     jbd2/mmcblk0p28	J
+    1.400068594	A	WS	 4080440	   8	 137	     jbd2/mmcblk0p28	J
+    1.400116823	Q	WS	 4080440	   8	 137	     jbd2/mmcblk0p28	J
+    1.400203021	M	WS	 4080440	   8	 137	     jbd2/mmcblk0p28	J
+    1.400252188	A	WS	 4080448	   8	 137	     jbd2/mmcblk0p28	J
+    1.400300417	Q	WS	 4080448	   8	 137	     jbd2/mmcblk0p28	J
+    1.400349375	M	WS	 4080448	   8	 137	     jbd2/mmcblk0p28	J
+    1.400437969	I	WS	 4080376	  80	 137	     jbd2/mmcblk0p28	J
+    1.400540156	D	WAS	 4080376	  80	 137	     jbd2/mmcblk0p28	J
+    1.404851928	C	WAS	 4080376	  80	 137	     jbd2/mmcblk0p28	J
+    1.405494376	A	WBS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.405553282	Q	WBS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.405661719	G	WBS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.405734167	I	WBS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.406014896	D	WS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.406809063	C	WS	 4080456	   8	 137	     jbd2/mmcblk0p28	J
+    1.406971094	C	WS	 4080456	   0	 137	     jbd2/mmcblk0p28	J
+    1.407451823	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.407731303	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.407959323	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.408172709	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.408660209	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.409444115	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.409534584	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.409627448	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.409683334	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.410003021	C	WS	       0	   0	 135	         flush-179:0	M
+    1.410170313	A	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410219115	Q	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410273698	G	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410338854	A	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410387709	Q	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410439531	G	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410496823	I	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410585417	I	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410695156	D	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.410809531	D	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.412230469	C	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.412338698	C	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    1.412443958	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.412544010	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.412597552	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.412798125	C	WS	       0	   0	 135	         flush-179:0	M
+    1.412951667	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.412999635	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.413051562	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.413146562	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.413250833	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.414138698	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    1.414255677	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.414307239	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.414358854	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.414617500	C	WS	       0	   0	 135	         flush-179:0	M
+    1.478195469	A	WS	23004544	   8	1847	            Binder_C	M
+    1.478297917	Q	WS	23004544	   8	1847	            Binder_C	M
+    1.478516823	G	WS	23004544	   8	1847	            Binder_C	M
+    1.478638177	I	WS	23004544	   8	1847	            Binder_C	M
+    1.478847292	D	WAS	23004544	   8	1847	            Binder_C	M
+    1.480184271	C	WAS	23004544	   8	1847	            Binder_C	M
+    1.480426875	A	WS	 4080464	   8	 137	     jbd2/mmcblk0p28	J
+    1.480566406	Q	WS	 4080464	   8	 137	     jbd2/mmcblk0p28	J
+    1.480651146	G	WS	 4080464	   8	 137	     jbd2/mmcblk0p28	J
+    1.480735417	A	WS	 4080472	   8	 137	     jbd2/mmcblk0p28	J
+    1.480889011	Q	WS	 4080472	   8	 137	     jbd2/mmcblk0p28	J
+    1.480970938	M	WS	 4080472	   8	 137	     jbd2/mmcblk0p28	J
+    1.481053229	A	WS	 4080480	   8	 137	     jbd2/mmcblk0p28	J
+    1.481190469	Q	WS	 4080480	   8	 137	     jbd2/mmcblk0p28	J
+    1.481268906	M	WS	 4080480	   8	 137	     jbd2/mmcblk0p28	J
+    1.481349531	A	WS	 4080488	   8	 137	     jbd2/mmcblk0p28	J
+    1.481484167	Q	WS	 4080488	   8	 137	     jbd2/mmcblk0p28	J
+    1.481562865	M	WS	 4080488	   8	 137	     jbd2/mmcblk0p28	J
+    1.481642500	A	WS	 4080496	   8	 137	     jbd2/mmcblk0p28	J
+    1.481716823	Q	WS	 4080496	   8	 137	     jbd2/mmcblk0p28	J
+    1.481853073	M	WS	 4080496	   8	 137	     jbd2/mmcblk0p28	J
+    1.481938229	I	WS	 4080464	  40	 137	     jbd2/mmcblk0p28	J
+    1.482144115	D	WAS	 4080464	  40	 137	     jbd2/mmcblk0p28	J
+    1.485110053	C	WAS	 4080464	  40	 137	     jbd2/mmcblk0p28	J
+    1.485275105	A	WBS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.485416667	Q	WBS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.485499844	G	WBS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.485584219	I	WBS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.485926511	D	WS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.486726719	C	WS	 4080504	   8	 137	     jbd2/mmcblk0p28	J
+    1.486834480	C	WS	 4080504	   0	 137	     jbd2/mmcblk0p28	J
+    1.495188230	A	WS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.495403230	Q	WS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.495536667	G	WS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.495756876	I	WS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.495964167	D	WAS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.496955261	C	WAS	22968472	   8	 834	          android.bg	D	/system/sync/pending.xml
+    1.497262865	A	WS	 4080512	   8	 137	     jbd2/mmcblk0p28	J
+    1.497341042	Q	WS	 4080512	   8	 137	     jbd2/mmcblk0p28	J
+    1.497423750	G	WS	 4080512	   8	 137	     jbd2/mmcblk0p28	J
+    1.497565990	A	WS	 4080520	   8	 137	     jbd2/mmcblk0p28	J
+    1.497643230	Q	WS	 4080520	   8	 137	     jbd2/mmcblk0p28	J
+    1.497722657	M	WS	 4080520	   8	 137	     jbd2/mmcblk0p28	J
+    1.497863646	A	WS	 4080528	   8	 137	     jbd2/mmcblk0p28	J
+    1.497940000	Q	WS	 4080528	   8	 137	     jbd2/mmcblk0p28	J
+    1.498017969	M	WS	 4080528	   8	 137	     jbd2/mmcblk0p28	J
+    1.498158698	A	WS	 4080536	   8	 137	     jbd2/mmcblk0p28	J
+    1.498235886	Q	WS	 4080536	   8	 137	     jbd2/mmcblk0p28	J
+    1.498313959	M	WS	 4080536	   8	 137	     jbd2/mmcblk0p28	J
+    1.498394532	A	WS	 4080544	   8	 137	     jbd2/mmcblk0p28	J
+    1.498470365	Q	WS	 4080544	   8	 137	     jbd2/mmcblk0p28	J
+    1.498548177	M	WS	 4080544	   8	 137	     jbd2/mmcblk0p28	J
+    1.498629271	A	WS	 4080552	   8	 137	     jbd2/mmcblk0p28	J
+    1.498765834	Q	WS	 4080552	   8	 137	     jbd2/mmcblk0p28	J
+    1.498844375	M	WS	 4080552	   8	 137	     jbd2/mmcblk0p28	J
+    1.498925313	A	WS	 4080560	   8	 137	     jbd2/mmcblk0p28	J
+    1.499062552	Q	WS	 4080560	   8	 137	     jbd2/mmcblk0p28	J
+    1.499138542	M	WS	 4080560	   8	 137	     jbd2/mmcblk0p28	J
+    1.499222761	I	WS	 4080512	  56	 137	     jbd2/mmcblk0p28	J
+    1.499441719	D	WAS	 4080512	  56	 137	     jbd2/mmcblk0p28	J
+    1.502988542	C	WAS	 4080512	  56	 137	     jbd2/mmcblk0p28	J
+    1.503164531	A	WBS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.503305625	Q	WBS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.503391615	G	WBS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.503474219	I	WBS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.503859739	D	WS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.504776407	C	WS	 4080568	   8	 137	     jbd2/mmcblk0p28	J
+    1.504893334	C	WS	 4080568	   0	 137	     jbd2/mmcblk0p28	J
+    1.508220052	A	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.508299011	Q	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.508386719	G	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.508541198	I	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.508705990	D	WAS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.509540886	C	WAS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    1.509855677	A	WS	 4080576	   8	 137	     jbd2/mmcblk0p28	J
+    1.509945052	Q	WS	 4080576	   8	 137	     jbd2/mmcblk0p28	J
+    1.510030000	G	WS	 4080576	   8	 137	     jbd2/mmcblk0p28	J
+    1.510194427	A	WS	 4080584	   8	 137	     jbd2/mmcblk0p28	J
+    1.510281511	Q	WS	 4080584	   8	 137	     jbd2/mmcblk0p28	J
+    1.510389584	M	WS	 4080584	   8	 137	     jbd2/mmcblk0p28	J
+    1.510576198	A	WS	 4080592	   8	 137	     jbd2/mmcblk0p28	J
+    1.510673490	Q	WS	 4080592	   8	 137	     jbd2/mmcblk0p28	J
+    1.510776979	M	WS	 4080592	   8	 137	     jbd2/mmcblk0p28	J
+    1.510961979	A	WS	 4080600	   8	 137	     jbd2/mmcblk0p28	J
+    1.511065469	Q	WS	 4080600	   8	 137	     jbd2/mmcblk0p28	J
+    1.511179583	M	WS	 4080600	   8	 137	     jbd2/mmcblk0p28	J
+    1.511362552	A	WS	 4080608	   8	 137	     jbd2/mmcblk0p28	J
+    1.511466615	Q	WS	 4080608	   8	 137	     jbd2/mmcblk0p28	J
+    1.511567552	M	WS	 4080608	   8	 137	     jbd2/mmcblk0p28	J
+    1.511757917	A	WS	 4080616	   8	 137	     jbd2/mmcblk0p28	J
+    1.511859479	Q	WS	 4080616	   8	 137	     jbd2/mmcblk0p28	J
+    1.511962240	M	WS	 4080616	   8	 137	     jbd2/mmcblk0p28	J
+    1.512174115	A	WS	 4080624	   8	 137	     jbd2/mmcblk0p28	J
+    1.512275781	Q	WS	 4080624	   8	 137	     jbd2/mmcblk0p28	J
+    1.512375104	M	WS	 4080624	   8	 137	     jbd2/mmcblk0p28	J
+    1.512574115	A	WS	 4080632	   8	 137	     jbd2/mmcblk0p28	J
+    1.512674896	Q	WS	 4080632	   8	 137	     jbd2/mmcblk0p28	J
+    1.512774531	M	WS	 4080632	   8	 137	     jbd2/mmcblk0p28	J
+    1.512933125	I	WS	 4080576	  64	 137	     jbd2/mmcblk0p28	J
+    1.513070156	D	WAS	 4080576	  64	 137	     jbd2/mmcblk0p28	J
+    1.514568750	C	WAS	 4080576	  64	 137	     jbd2/mmcblk0p28	J
+    1.514845209	A	WBS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.514926146	Q	WBS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.515066667	G	WBS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.515147032	I	WBS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.515446511	D	WS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.516359428	C	WS	 4080640	   8	 137	     jbd2/mmcblk0p28	J
+    1.516473907	C	WS	 4080640	   0	 137	     jbd2/mmcblk0p28	J
+    1.619228542	A	WS	23004904	   8	3071	     pool-1-thread-1	M
+    1.619310000	Q	WS	23004904	   8	3071	     pool-1-thread-1	M
+    1.619466927	G	WS	23004904	   8	3071	     pool-1-thread-1	M
+    1.619568281	I	WS	23004904	   8	3071	     pool-1-thread-1	M
+    1.619751250	D	WAS	23004904	   8	3071	     pool-1-thread-1	M
+    1.620653229	C	WAS	23004904	   8	3071	     pool-1-thread-1	M
+    1.620892031	A	WS	 4080648	   8	 137	     jbd2/mmcblk0p28	J
+    1.620939375	Q	WS	 4080648	   8	 137	     jbd2/mmcblk0p28	J
+    1.620989427	G	WS	 4080648	   8	 137	     jbd2/mmcblk0p28	J
+    1.621070417	A	WS	 4080656	   8	 137	     jbd2/mmcblk0p28	J
+    1.621117865	Q	WS	 4080656	   8	 137	     jbd2/mmcblk0p28	J
+    1.621173021	M	WS	 4080656	   8	 137	     jbd2/mmcblk0p28	J
+    1.621260938	A	WS	 4080664	   8	 137	     jbd2/mmcblk0p28	J
+    1.621301979	Q	WS	 4080664	   8	 137	     jbd2/mmcblk0p28	J
+    1.621345833	M	WS	 4080664	   8	 137	     jbd2/mmcblk0p28	J
+    1.621422552	A	WS	 4080672	   8	 137	     jbd2/mmcblk0p28	J
+    1.621466979	Q	WS	 4080672	   8	 137	     jbd2/mmcblk0p28	J
+    1.621511250	M	WS	 4080672	   8	 137	     jbd2/mmcblk0p28	J
+    1.621593594	A	WS	 4080680	   8	 137	     jbd2/mmcblk0p28	J
+    1.621636406	Q	WS	 4080680	   8	 137	     jbd2/mmcblk0p28	J
+    1.621680990	M	WS	 4080680	   8	 137	     jbd2/mmcblk0p28	J
+    1.621763750	A	WS	 4080688	   8	 137	     jbd2/mmcblk0p28	J
+    1.621808594	Q	WS	 4080688	   8	 137	     jbd2/mmcblk0p28	J
+    1.621853490	M	WS	 4080688	   8	 137	     jbd2/mmcblk0p28	J
+    1.621935260	A	WS	 4080696	   8	 137	     jbd2/mmcblk0p28	J
+    1.621980781	Q	WS	 4080696	   8	 137	     jbd2/mmcblk0p28	J
+    1.622026146	M	WS	 4080696	   8	 137	     jbd2/mmcblk0p28	J
+    1.622134792	A	WS	 4080704	   8	 137	     jbd2/mmcblk0p28	J
+    1.622197552	Q	WS	 4080704	   8	 137	     jbd2/mmcblk0p28	J
+    1.622244531	M	WS	 4080704	   8	 137	     jbd2/mmcblk0p28	J
+    1.622330104	A	WS	 4080712	   8	 137	     jbd2/mmcblk0p28	J
+    1.622374167	Q	WS	 4080712	   8	 137	     jbd2/mmcblk0p28	J
+    1.622419167	M	WS	 4080712	   8	 137	     jbd2/mmcblk0p28	J
+    1.622501823	A	WS	 4080720	   8	 137	     jbd2/mmcblk0p28	J
+    1.622542656	Q	WS	 4080720	   8	 137	     jbd2/mmcblk0p28	J
+    1.622585104	M	WS	 4080720	   8	 137	     jbd2/mmcblk0p28	J
+    1.622664740	I	WS	 4080648	  80	 137	     jbd2/mmcblk0p28	J
+    1.622775781	D	WAS	 4080648	  80	 137	     jbd2/mmcblk0p28	J
+    1.626247344	C	WAS	 4080648	  80	 137	     jbd2/mmcblk0p28	J
+    1.626419063	A	WBS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.626468907	Q	WBS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.626518698	G	WBS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.626568125	I	WBS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.626835573	D	WS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.627558334	C	WS	 4080728	   8	 137	     jbd2/mmcblk0p28	J
+    1.627638646	C	WS	 4080728	   0	 137	     jbd2/mmcblk0p28	J
+    1.635150782	A	WS	23029872	   8	3071	     pool-1-thread-1	M
+    1.635199376	Q	WS	23029872	   8	3071	     pool-1-thread-1	M
+    1.635286719	G	WS	23029872	   8	3071	     pool-1-thread-1	M
+    1.635379428	I	WS	23029872	   8	3071	     pool-1-thread-1	M
+    1.635488907	D	WAS	23029872	   8	3071	     pool-1-thread-1	M
+    1.636545521	C	WAS	23029872	   8	3071	     pool-1-thread-1	M
+    1.636930938	A	WS	 4080736	   8	 137	     jbd2/mmcblk0p28	J
+    1.636974167	Q	WS	 4080736	   8	 137	     jbd2/mmcblk0p28	J
+    1.637053907	G	WS	 4080736	   8	 137	     jbd2/mmcblk0p28	J
+    1.637101094	A	WS	 4080744	   8	 137	     jbd2/mmcblk0p28	J
+    1.637143386	Q	WS	 4080744	   8	 137	     jbd2/mmcblk0p28	J
+    1.637222709	M	WS	 4080744	   8	 137	     jbd2/mmcblk0p28	J
+    1.637269584	A	WS	 4080752	   8	 137	     jbd2/mmcblk0p28	J
+    1.637314584	Q	WS	 4080752	   8	 137	     jbd2/mmcblk0p28	J
+    1.637358750	M	WS	 4080752	   8	 137	     jbd2/mmcblk0p28	J
+    1.637441302	A	WS	 4080760	   8	 137	     jbd2/mmcblk0p28	J
+    1.637487500	Q	WS	 4080760	   8	 137	     jbd2/mmcblk0p28	J
+    1.637533282	M	WS	 4080760	   8	 137	     jbd2/mmcblk0p28	J
+    1.637616198	A	WS	 4080768	   8	 137	     jbd2/mmcblk0p28	J
+    1.637658334	Q	WS	 4080768	   8	 137	     jbd2/mmcblk0p28	J
+    1.637701355	M	WS	 4080768	   8	 137	     jbd2/mmcblk0p28	J
+    1.637779063	A	WS	 4080776	   8	 137	     jbd2/mmcblk0p28	J
+    1.637823542	Q	WS	 4080776	   8	 137	     jbd2/mmcblk0p28	J
+    1.637866980	M	WS	 4080776	   8	 137	     jbd2/mmcblk0p28	J
+    1.637944323	A	WS	 4080784	   8	 137	     jbd2/mmcblk0p28	J
+    1.637986302	Q	WS	 4080784	   8	 137	     jbd2/mmcblk0p28	J
+    1.638029063	M	WS	 4080784	   8	 137	     jbd2/mmcblk0p28	J
+    1.638107917	A	WS	 4080792	   8	 137	     jbd2/mmcblk0p28	J
+    1.638150469	Q	WS	 4080792	   8	 137	     jbd2/mmcblk0p28	J
+    1.638194792	M	WS	 4080792	   8	 137	     jbd2/mmcblk0p28	J
+    1.638273855	A	WS	 4080800	   8	 137	     jbd2/mmcblk0p28	J
+    1.638317344	Q	WS	 4080800	   8	 137	     jbd2/mmcblk0p28	J
+    1.638360261	M	WS	 4080800	   8	 137	     jbd2/mmcblk0p28	J
+    1.638447396	I	WS	 4080736	  72	 137	     jbd2/mmcblk0p28	J
+    1.638583907	D	WAS	 4080736	  72	 137	     jbd2/mmcblk0p28	J
+    1.642068385	C	WAS	 4080736	  72	 137	     jbd2/mmcblk0p28	J
+    1.642224687	A	WBS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.642265208	Q	WBS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.642309844	G	WBS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.642354740	I	WBS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.642638698	D	WS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.643347604	C	WS	 4080808	   8	 137	     jbd2/mmcblk0p28	J
+    1.643426927	C	WS	 4080808	   0	 137	     jbd2/mmcblk0p28	J
+    1.790501978	A	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790546874	Q	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790636249	G	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790691145	A	WS	 6630120	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790774947	Q	WS	 6630120	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790824009	G	WS	 6630120	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790908645	A	WS	 6630128	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790951561	Q	WS	 6630128	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.790996978	M	WS	 6630128	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.791084686	A	WS	 6630136	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.791131301	Q	WS	 6630136	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.791213853	M	WS	 6630136	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.791264582	A	WS	23029880	   8	103052	     .android.chrome	M
+    1.791340520	Q	WS	23029880	   8	103052	     .android.chrome	M
+    1.791384686	G	WS	23029880	   8	103052	     .android.chrome	M
+    1.791466197	A	WS	23029888	   8	103052	     .android.chrome	M
+    1.791507655	Q	WS	23029888	   8	103052	     .android.chrome	M
+    1.791551145	M	WS	23029888	   8	103052	     .android.chrome	M
+    1.791631874	A	WS	23029896	   8	103052	     .android.chrome	M
+    1.791674738	Q	WS	23029896	   8	103052	     .android.chrome	M
+    1.791750988	M	WS	23029896	   8	103052	     .android.chrome	M
+    1.791800415	A	WS	23029904	   8	103052	     .android.chrome	M
+    1.791874270	Q	WS	23029904	   8	103052	     .android.chrome	M
+    1.791917499	M	WS	23029904	   8	103052	     .android.chrome	M
+    1.792027082	A	WS	23029912	   8	103052	     .android.chrome	M
+    1.792071197	Q	WS	23029912	   8	103052	     .android.chrome	M
+    1.792150311	M	WS	23029912	   8	103052	     .android.chrome	M
+    1.792199947	A	WS	23029920	   8	103052	     .android.chrome	M
+    1.792242863	Q	WS	23029920	   8	103052	     .android.chrome	M
+    1.792320467	M	WS	23029920	   8	103052	     .android.chrome	M
+    1.792368436	A	WS	23029928	   8	103052	     .android.chrome	M
+    1.792442186	Q	WS	23029928	   8	103052	     .android.chrome	M
+    1.792483905	M	WS	23029928	   8	103052	     .android.chrome	M
+    1.792569061	I	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.792624530	I	WS	 6630120	  24	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.792699999	I	WS	23029880	  56	103052	     .android.chrome	M
+    1.792791040	D	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.792939113	D	WAS	 6630120	  24	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.793019009	D	WAS	23029880	  56	103052	     .android.chrome	M
+    1.800279843	C	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.800457030	C	WAS	 6630120	  24	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.800645051	C	WAS	23029880	  56	103052	     .android.chrome	M
+    1.800878280	A	WS	 4080816	   8	 137	     jbd2/mmcblk0p28	J
+    1.800919895	Q	WS	 4080816	   8	 137	     jbd2/mmcblk0p28	J
+    1.800963489	G	WS	 4080816	   8	 137	     jbd2/mmcblk0p28	J
+    1.801039739	A	WS	 4080824	   8	 137	     jbd2/mmcblk0p28	J
+    1.801081041	Q	WS	 4080824	   8	 137	     jbd2/mmcblk0p28	J
+    1.801123176	M	WS	 4080824	   8	 137	     jbd2/mmcblk0p28	J
+    1.801196822	A	WS	 4080832	   8	 137	     jbd2/mmcblk0p28	J
+    1.801237291	Q	WS	 4080832	   8	 137	     jbd2/mmcblk0p28	J
+    1.801278853	M	WS	 4080832	   8	 137	     jbd2/mmcblk0p28	J
+    1.801353593	A	WS	 4080840	   8	 137	     jbd2/mmcblk0p28	J
+    1.801394114	Q	WS	 4080840	   8	 137	     jbd2/mmcblk0p28	J
+    1.801435312	M	WS	 4080840	   8	 137	     jbd2/mmcblk0p28	J
+    1.801508541	A	WS	 4080848	   8	 137	     jbd2/mmcblk0p28	J
+    1.801548957	Q	WS	 4080848	   8	 137	     jbd2/mmcblk0p28	J
+    1.801590207	M	WS	 4080848	   8	 137	     jbd2/mmcblk0p28	J
+    1.801666041	A	WS	 4080856	   8	 137	     jbd2/mmcblk0p28	J
+    1.801707707	Q	WS	 4080856	   8	 137	     jbd2/mmcblk0p28	J
+    1.801781041	M	WS	 4080856	   8	 137	     jbd2/mmcblk0p28	J
+    1.801822968	A	WS	 4080864	   8	 137	     jbd2/mmcblk0p28	J
+    1.801863489	Q	WS	 4080864	   8	 137	     jbd2/mmcblk0p28	J
+    1.801936666	M	WS	 4080864	   8	 137	     jbd2/mmcblk0p28	J
+    1.801979582	A	WS	 4080872	   8	 137	     jbd2/mmcblk0p28	J
+    1.802052186	Q	WS	 4080872	   8	 137	     jbd2/mmcblk0p28	J
+    1.802093541	M	WS	 4080872	   8	 137	     jbd2/mmcblk0p28	J
+    1.802167811	A	WS	 4080880	   8	 137	     jbd2/mmcblk0p28	J
+    1.802208489	Q	WS	 4080880	   8	 137	     jbd2/mmcblk0p28	J
+    1.802249791	M	WS	 4080880	   8	 137	     jbd2/mmcblk0p28	J
+    1.802323853	A	WS	 4080888	   8	 137	     jbd2/mmcblk0p28	J
+    1.802365259	Q	WS	 4080888	   8	 137	     jbd2/mmcblk0p28	J
+    1.802438645	M	WS	 4080888	   8	 137	     jbd2/mmcblk0p28	J
+    1.802483332	I	WS	 4080816	  80	 137	     jbd2/mmcblk0p28	J
+    1.802584270	D	WAS	 4080816	  80	 137	     jbd2/mmcblk0p28	J
+    1.804330572	C	WAS	 4080816	  80	 137	     jbd2/mmcblk0p28	J
+    1.804444530	A	WBS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.804485832	Q	WBS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.804560989	G	WBS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.804603489	I	WBS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.804983072	D	WS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.805735520	C	WS	 4080896	   8	 137	     jbd2/mmcblk0p28	J
+    1.805877083	C	WS	 4080896	   0	 137	     jbd2/mmcblk0p28	J
+    1.806035937	A	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.806112239	Q	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.806162916	G	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.806215989	I	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.806376301	D	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.807140260	C	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.807269635	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.807319530	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.807370989	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.807621457	C	WS	       0	   0	 135	         flush-179:0	M
+    1.807862343	A	WS	 6630016	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.807904426	Q	WS	 6630016	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.807983541	G	WS	 6630016	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808033593	A	WS	 6630024	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808076457	Q	WS	 6630024	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808150676	M	WS	 6630024	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808209895	A	WS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808287135	Q	WS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808330468	G	WS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808388385	A	WS	 6630064	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808461510	Q	WS	 6630064	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808506510	G	WS	 6630064	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808587655	A	WS	 6630072	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808631093	Q	WS	 6630072	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808676197	M	WS	 6630072	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808756874	A	WS	 6630080	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808799739	Q	WS	 6630080	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808881145	M	WS	 6630080	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808938176	A	WS	23110584	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.808979947	Q	WS	23110584	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809058228	G	WS	23110584	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809106197	A	WS	23110592	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809178697	Q	WS	23110592	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809219530	M	WS	23110592	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809273905	A	WS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809346353	Q	WS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809389374	G	WS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809442551	A	WS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809514895	Q	WS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809558020	G	WS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809636510	I	WS	 6630016	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809680260	I	WS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809722187	I	WS	 6630064	  24	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809795885	I	WS	23110584	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809837812	I	WS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.809911718	I	WS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810014530	D	WAS	 6630016	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810101249	D	WAS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810238593	D	WAS	 6630064	  24	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810316041	D	WAS	23110584	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810451718	D	WAS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.810528385	D	WAS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.815281666	C	WAS	 6630016	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.815476926	C	WAS	 6630048	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.815649791	C	WAS	 6630064	  24	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.815853905	C	WAS	23110584	  16	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.815955155	C	WAS	23111144	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.816058385	C	WAS	23112656	   8	3052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3
+    1.816275780	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.816365312	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.816417812	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.816791249	C	WS	       0	   0	 135	         flush-179:0	M
+    1.817017447	A	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.817067916	Q	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.817164270	G	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.817217551	I	WS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.817446770	D	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.818215728	C	WAS	 6630008	   8	103052	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Sync Data/SyncData.sqlite3-journal
+    1.818320416	Q	WBS	       0	   0	 135	         flush-179:0	M
+    1.818366405	G	WBS	       0	   0	 135	         flush-179:0	M
+    1.818412655	I	WBS	       0	   0	 135	         flush-179:0	M
+    1.818611405	C	WS	       0	   0	 135	         flush-179:0	M
+    2.105827968	A	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.106108853	Q	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.106596457	G	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.106871353	I	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.107110780	D	WA	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.107572499	A	W	 6591264	   8	 135	         flush-179:0	M
+    2.107964895	Q	W	 6591264	   8	 135	         flush-179:0	M
+    2.108192603	G	W	 6591264	   8	 135	         flush-179:0	M
+    2.108424947	A	W	 6591280	   8	 135	         flush-179:0	M
+    2.108781457	Q	W	 6591280	   8	 135	         flush-179:0	M
+    2.108996770	G	W	 6591280	   8	 135	         flush-179:0	M
+    2.109394947	A	W	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.109602187	Q	W	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.109825312	G	W	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.110258853	A	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.110480624	Q	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.110864166	G	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.111095780	A	W	 8163336	   8	 135	         flush-179:0	M
+    2.111461093	Q	W	 8163336	   8	 135	         flush-179:0	M
+    2.111671093	C	WA	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    2.112019322	G	W	 8163336	   8	 135	         flush-179:0	M
+    2.112252811	A	W	 8163344	   8	 135	         flush-179:0	M
+    2.112455936	Q	W	 8163344	   8	 135	         flush-179:0	M
+    2.112823541	M	W	 8163344	   8	 135	         flush-179:0	M
+    2.113057811	A	W	 8163504	   8	 135	         flush-179:0	M
+    2.113427916	Q	W	 8163504	   8	 135	         flush-179:0	M
+    2.113646145	G	W	 8163504	   8	 135	         flush-179:0	M
+    2.113879374	A	W	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.114238697	Q	W	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.114448905	G	W	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.114688905	A	W	22843400	   8	 135	         flush-179:0	M
+    2.115123333	Q	W	22843400	   8	 135	         flush-179:0	M
+    2.115342239	G	W	22843400	   8	 135	         flush-179:0	M
+    2.115568697	A	W	22843416	   8	 135	         flush-179:0	M
+    2.115926978	Q	W	22843416	   8	 135	         flush-179:0	M
+    2.116138645	G	W	22843416	   8	 135	         flush-179:0	M
+    2.116366770	A	W	22843424	   8	 135	         flush-179:0	M
+    2.116723124	Q	W	22843424	   8	 135	         flush-179:0	M
+    2.116925468	M	W	22843424	   8	 135	         flush-179:0	M
+    2.117151822	A	W	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.117514478	Q	W	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.117744218	G	W	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.118189791	A	W	 6590472	   8	 135	         flush-179:0	M
+    2.118395885	Q	W	 6590472	   8	 135	         flush-179:0	M
+    2.118620728	G	W	 6590472	   8	 135	         flush-179:0	M
+    2.119011353	A	W	 6590688	   8	 135	         flush-179:0	M
+    2.119219114	Q	W	 6590688	   8	 135	         flush-179:0	M
+    2.119603541	G	W	 6590688	   8	 135	         flush-179:0	M
+    2.119852291	A	W	 6590816	   8	 135	         flush-179:0	M
+    2.120221718	Q	W	 6590816	   8	 135	         flush-179:0	M
+    2.120448124	G	W	 6590816	   8	 135	         flush-179:0	M
+    2.120677707	A	W	 6590904	   8	 135	         flush-179:0	M
+    2.121144114	Q	W	 6590904	   8	 135	         flush-179:0	M
+    2.121395520	G	W	 6590904	   8	 135	         flush-179:0	M
+    2.121959687	I	W	 6591264	   8	 135	         flush-179:0	M
+    2.122257030	I	W	 6591280	   8	 135	         flush-179:0	M
+    2.122541561	I	W	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.122991666	I	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.123232603	I	W	 8163336	  16	 135	         flush-179:0	M
+    2.123686614	I	W	 8163504	   8	 135	         flush-179:0	M
+    2.123989270	I	W	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.124249270	I	W	22843400	   8	 135	         flush-179:0	M
+    2.124789895	I	W	22843416	  16	 135	         flush-179:0	M
+    2.125037499	I	W	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.125332030	I	W	 6590472	   8	 135	         flush-179:0	M
+    2.125694426	I	W	 6590688	   8	 135	         flush-179:0	M
+    2.125915780	I	W	 6590816	   8	 135	         flush-179:0	M
+    2.126289010	I	W	 6590904	   8	 135	         flush-179:0	M
+    2.126582395	D	WA	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.126988385	D	WA	 6591280	   8	 135	         flush-179:0	M
+    2.127208072	D	WA	 6591264	   8	 135	         flush-179:0	M
+    2.127429530	D	WA	 6590904	   8	 135	         flush-179:0	M
+    2.127812916	D	WA	 6590816	   8	 135	         flush-179:0	M
+    2.128028437	D	WA	 6590688	   8	 135	         flush-179:0	M
+    2.128402655	D	WA	 6590472	   8	 135	         flush-179:0	M
+    2.128618228	D	WA	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.128838905	D	WA	 8163336	  16	 135	         flush-179:0	M
+    2.129341197	D	WA	 8163504	   8	 135	         flush-179:0	M
+    2.129619426	D	WA	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.129998853	D	WA	22843400	   8	 135	         flush-179:0	M
+    2.130218124	D	WA	22843416	  16	 135	         flush-179:0	M
+    2.130435937	D	WA	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.139770937	C	WA	 6597776	   8	 135	         flush-179:0	D	/data/com.android.chrome/files
+    2.140039270	C	WA	 6591280	   8	 135	         flush-179:0	M
+    2.140283905	C	WA	 6591264	   8	 135	         flush-179:0	M
+    2.140773905	C	WA	 6590904	   8	 135	         flush-179:0	M
+    2.141215884	C	WA	 6590816	   8	 135	         flush-179:0	M
+    2.141623749	C	WA	 6590688	   8	 135	         flush-179:0	M
+    2.141870416	C	WA	 6590472	   8	 135	         flush-179:0	M
+    2.142352499	C	WA	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    2.142606145	C	WA	 8163336	  16	 135	         flush-179:0	M
+    2.142859322	C	WA	 8163504	   8	 135	         flush-179:0	M
+    2.143271926	C	WA	 8320024	   8	 135	         flush-179:0	D	/media/0/test
+    2.143719947	C	WA	22843400	   8	 135	         flush-179:0	M
+    2.144080676	C	WA	22843416	  16	 135	         flush-179:0	M
+    2.144576822	C	WA	22868320	   8	 135	         flush-179:0	D	/system/sync
+    2.557502239	D	RA	 4800408	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    2.560761354	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.560840416	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.560929374	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561079739	A	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561155364	Q	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561238958	G	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561285208	C	RA	 4800408	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    2.561459895	A	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561536822	Q	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561674374	M	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561762447	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.561917812	I	WS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.562012187	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.562150624	D	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.562882708	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.563477343	C	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.563697343	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.564004895	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.564102135	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.564327395	C	WS	       0	   0	 135	         flush-179:0	M
+    2.564785416	A	WS	 4080904	   8	 137	     jbd2/mmcblk0p28	J
+    2.564867187	Q	WS	 4080904	   8	 137	     jbd2/mmcblk0p28	J
+    2.564957135	G	WS	 4080904	   8	 137	     jbd2/mmcblk0p28	J
+    2.565111250	A	WS	 4080912	   8	 137	     jbd2/mmcblk0p28	J
+    2.565189375	Q	WS	 4080912	   8	 137	     jbd2/mmcblk0p28	J
+    2.565269427	M	WS	 4080912	   8	 137	     jbd2/mmcblk0p28	J
+    2.565420052	A	WS	 4080920	   8	 137	     jbd2/mmcblk0p28	J
+    2.565503802	Q	WS	 4080920	   8	 137	     jbd2/mmcblk0p28	J
+    2.565650885	M	WS	 4080920	   8	 137	     jbd2/mmcblk0p28	J
+    2.565736979	A	WS	 4080928	   8	 137	     jbd2/mmcblk0p28	J
+    2.565883854	Q	WS	 4080928	   8	 137	     jbd2/mmcblk0p28	J
+    2.566029114	M	WS	 4080928	   8	 137	     jbd2/mmcblk0p28	J
+    2.566110677	A	WS	 4080936	   8	 137	     jbd2/mmcblk0p28	J
+    2.566246562	Q	WS	 4080936	   8	 137	     jbd2/mmcblk0p28	J
+    2.566325208	M	WS	 4080936	   8	 137	     jbd2/mmcblk0p28	J
+    2.566465104	A	WS	 4080944	   8	 137	     jbd2/mmcblk0p28	J
+    2.566541718	Q	WS	 4080944	   8	 137	     jbd2/mmcblk0p28	J
+    2.566618958	M	WS	 4080944	   8	 137	     jbd2/mmcblk0p28	J
+    2.566759271	A	WS	 4080952	   8	 137	     jbd2/mmcblk0p28	J
+    2.566833854	Q	WS	 4080952	   8	 137	     jbd2/mmcblk0p28	J
+    2.566911302	M	WS	 4080952	   8	 137	     jbd2/mmcblk0p28	J
+    2.567052552	A	WS	 4080960	   8	 137	     jbd2/mmcblk0p28	J
+    2.567130416	Q	WS	 4080960	   8	 137	     jbd2/mmcblk0p28	J
+    2.567268958	M	WS	 4080960	   8	 137	     jbd2/mmcblk0p28	J
+    2.567353489	A	WS	 4080968	   8	 137	     jbd2/mmcblk0p28	J
+    2.567429583	Q	WS	 4080968	   8	 137	     jbd2/mmcblk0p28	J
+    2.567566823	M	WS	 4080968	   8	 137	     jbd2/mmcblk0p28	J
+    2.567647343	A	WS	 4080976	   8	 137	     jbd2/mmcblk0p28	J
+    2.567723020	Q	WS	 4080976	   8	 137	     jbd2/mmcblk0p28	J
+    2.567860625	M	WS	 4080976	   8	 137	     jbd2/mmcblk0p28	J
+    2.567941718	A	WS	 4080984	   8	 137	     jbd2/mmcblk0p28	J
+    2.568017812	Q	WS	 4080984	   8	 137	     jbd2/mmcblk0p28	J
+    2.568154427	M	WS	 4080984	   8	 137	     jbd2/mmcblk0p28	J
+    2.568232448	A	WS	 4080992	   8	 137	     jbd2/mmcblk0p28	J
+    2.568306875	Q	WS	 4080992	   8	 137	     jbd2/mmcblk0p28	J
+    2.568442656	M	WS	 4080992	   8	 137	     jbd2/mmcblk0p28	J
+    2.568527031	I	WS	 4080904	  96	 137	     jbd2/mmcblk0p28	J
+    2.568651822	D	WAS	 4080904	  96	 137	     jbd2/mmcblk0p28	J
+    2.572215728	C	WAS	 4080904	  96	 137	     jbd2/mmcblk0p28	J
+    2.572484426	A	WBS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.572561510	Q	WBS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.572642343	G	WBS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.572780624	I	WBS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.573006770	D	WS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.573735051	C	WS	 4081000	   8	 137	     jbd2/mmcblk0p28	J
+    2.573875624	C	WS	 4081000	   0	 137	     jbd2/mmcblk0p28	J
+    2.574166353	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.574299687	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.574382708	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.574473853	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.574644218	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.575412448	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.575545885	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.575695364	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.575786041	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.576005312	C	WS	       0	   0	 135	         flush-179:0	M
+    2.576262760	A	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576340573	Q	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576423385	G	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576581666	A	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576657448	Q	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576739479	G	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576829010	I	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.576965625	I	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.577073958	D	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.577201250	D	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.577970416	C	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.578608958	C	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.578740260	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.578898437	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.578988125	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.579295833	C	WS	       0	   0	 135	         flush-179:0	M
+    2.579521770	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.579599895	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.579683958	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.579834895	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.579946458	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.580768541	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.582065781	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.582188958	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.582285468	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.582597239	C	WS	       0	   0	 135	         flush-179:0	M
+    2.631899531	A	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.631978124	Q	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.632126093	G	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.632223124	I	WS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.632357916	D	WAS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.633381197	C	WAS	22968472	   8	 996	            Binder_6	D	/system/sync/pending.xml
+    2.633603176	A	WS	 4081008	   8	 137	     jbd2/mmcblk0p28	J
+    2.633742135	Q	WS	 4081008	   8	 137	     jbd2/mmcblk0p28	J
+    2.633827499	G	WS	 4081008	   8	 137	     jbd2/mmcblk0p28	J
+    2.633911926	A	WS	 4081016	   8	 137	     jbd2/mmcblk0p28	J
+    2.633988905	Q	WS	 4081016	   8	 137	     jbd2/mmcblk0p28	J
+    2.634067708	M	WS	 4081016	   8	 137	     jbd2/mmcblk0p28	J
+    2.634208437	A	WS	 4081024	   8	 137	     jbd2/mmcblk0p28	J
+    2.634285520	Q	WS	 4081024	   8	 137	     jbd2/mmcblk0p28	J
+    2.634424530	M	WS	 4081024	   8	 137	     jbd2/mmcblk0p28	J
+    2.634504687	A	WS	 4081032	   8	 137	     jbd2/mmcblk0p28	J
+    2.634581718	Q	WS	 4081032	   8	 137	     jbd2/mmcblk0p28	J
+    2.634761614	M	WS	 4081032	   8	 137	     jbd2/mmcblk0p28	J
+    2.634846719	A	WS	 4081040	   8	 137	     jbd2/mmcblk0p28	J
+    2.634984166	Q	WS	 4081040	   8	 137	     jbd2/mmcblk0p28	J
+    2.635062187	M	WS	 4081040	   8	 137	     jbd2/mmcblk0p28	J
+    2.635207344	I	WS	 4081008	  40	 137	     jbd2/mmcblk0p28	J
+    2.635322864	D	WAS	 4081008	  40	 137	     jbd2/mmcblk0p28	J
+    2.638010104	C	WAS	 4081008	  40	 137	     jbd2/mmcblk0p28	J
+    2.638167760	A	WBS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.638245989	Q	WBS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.638387395	G	WBS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.638467135	I	WBS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.638741770	D	WS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.639526666	C	WS	 4081048	   8	 137	     jbd2/mmcblk0p28	J
+    2.639608906	C	WS	 4081048	   0	 137	     jbd2/mmcblk0p28	J
+    2.658940729	A	WS	23029936	   8	3071	     pool-1-thread-1	M
+    2.659088385	Q	WS	23029936	   8	3071	     pool-1-thread-1	M
+    2.659243541	G	WS	23029936	   8	3071	     pool-1-thread-1	M
+    2.659342656	I	WS	23029936	   8	3071	     pool-1-thread-1	M
+    2.659542812	D	WAS	23029936	   8	3071	     pool-1-thread-1	M
+    2.660451979	C	WAS	23029936	   8	3071	     pool-1-thread-1	M
+    2.660778749	A	WS	 4081056	   8	 137	     jbd2/mmcblk0p28	J
+    2.660862395	Q	WS	 4081056	   8	 137	     jbd2/mmcblk0p28	J
+    2.660951458	G	WS	 4081056	   8	 137	     jbd2/mmcblk0p28	J
+    2.661107291	A	WS	 4081064	   8	 137	     jbd2/mmcblk0p28	J
+    2.661191458	Q	WS	 4081064	   8	 137	     jbd2/mmcblk0p28	J
+    2.661276562	M	WS	 4081064	   8	 137	     jbd2/mmcblk0p28	J
+    2.661428749	A	WS	 4081072	   8	 137	     jbd2/mmcblk0p28	J
+    2.661514062	Q	WS	 4081072	   8	 137	     jbd2/mmcblk0p28	J
+    2.661600104	M	WS	 4081072	   8	 137	     jbd2/mmcblk0p28	J
+    2.661752239	A	WS	 4081080	   8	 137	     jbd2/mmcblk0p28	J
+    2.661835468	Q	WS	 4081080	   8	 137	     jbd2/mmcblk0p28	J
+    2.661919374	M	WS	 4081080	   8	 137	     jbd2/mmcblk0p28	J
+    2.662067291	A	WS	 4081088	   8	 137	     jbd2/mmcblk0p28	J
+    2.662148124	Q	WS	 4081088	   8	 137	     jbd2/mmcblk0p28	J
+    2.662228853	M	WS	 4081088	   8	 137	     jbd2/mmcblk0p28	J
+    2.662377343	A	WS	 4081096	   8	 137	     jbd2/mmcblk0p28	J
+    2.662457083	Q	WS	 4081096	   8	 137	     jbd2/mmcblk0p28	J
+    2.662536718	M	WS	 4081096	   8	 137	     jbd2/mmcblk0p28	J
+    2.662684322	A	WS	 4081104	   8	 137	     jbd2/mmcblk0p28	J
+    2.662764687	Q	WS	 4081104	   8	 137	     jbd2/mmcblk0p28	J
+    2.662848281	M	WS	 4081104	   8	 137	     jbd2/mmcblk0p28	J
+    2.662937135	A	WS	 4081112	   8	 137	     jbd2/mmcblk0p28	J
+    2.663016978	Q	WS	 4081112	   8	 137	     jbd2/mmcblk0p28	J
+    2.663100051	M	WS	 4081112	   8	 137	     jbd2/mmcblk0p28	J
+    2.663254999	I	WS	 4081056	  64	 137	     jbd2/mmcblk0p28	J
+    2.663382187	D	WAS	 4081056	  64	 137	     jbd2/mmcblk0p28	J
+    2.665010885	C	WAS	 4081056	  64	 137	     jbd2/mmcblk0p28	J
+    2.665206094	A	WBS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.665289583	Q	WBS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.665439844	G	WBS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.665525104	I	WBS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.665792187	D	WS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.666632187	C	WS	 4081120	   8	 137	     jbd2/mmcblk0p28	J
+    2.666722031	C	WS	 4081120	   0	 137	     jbd2/mmcblk0p28	J
+    2.705507656	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.705593750	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.705690885	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.705854896	A	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.705937760	Q	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706027916	G	WS	23901680	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706191823	A	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706275052	Q	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706424427	M	WS	23901688	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706520468	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706630364	I	WS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706788854	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.706933333	D	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.707718125	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.708404270	C	WAS	23901680	  16	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.708552604	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.708648593	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.708811145	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.709182916	C	WS	       0	   0	 135	         flush-179:0	M
+    2.709532760	A	WS	 4081128	   8	 137	     jbd2/mmcblk0p28	J
+    2.709679635	Q	WS	 4081128	   8	 137	     jbd2/mmcblk0p28	J
+    2.709766822	G	WS	 4081128	   8	 137	     jbd2/mmcblk0p28	J
+    2.709919843	A	WS	 4081136	   8	 137	     jbd2/mmcblk0p28	J
+    2.710002083	Q	WS	 4081136	   8	 137	     jbd2/mmcblk0p28	J
+    2.710155624	M	WS	 4081136	   8	 137	     jbd2/mmcblk0p28	J
+    2.710247395	A	WS	 4081144	   8	 137	     jbd2/mmcblk0p28	J
+    2.710330208	Q	WS	 4081144	   8	 137	     jbd2/mmcblk0p28	J
+    2.710416406	M	WS	 4081144	   8	 137	     jbd2/mmcblk0p28	J
+    2.710570624	A	WS	 4081152	   8	 137	     jbd2/mmcblk0p28	J
+    2.710655364	Q	WS	 4081152	   8	 137	     jbd2/mmcblk0p28	J
+    2.710769010	M	WS	 4081152	   8	 137	     jbd2/mmcblk0p28	J
+    2.710926041	A	WS	 4081160	   8	 137	     jbd2/mmcblk0p28	J
+    2.711009895	Q	WS	 4081160	   8	 137	     jbd2/mmcblk0p28	J
+    2.711096718	M	WS	 4081160	   8	 137	     jbd2/mmcblk0p28	J
+    2.711248749	A	WS	 4081168	   8	 137	     jbd2/mmcblk0p28	J
+    2.711333229	Q	WS	 4081168	   8	 137	     jbd2/mmcblk0p28	J
+    2.711421926	M	WS	 4081168	   8	 137	     jbd2/mmcblk0p28	J
+    2.711576614	A	WS	 4081176	   8	 137	     jbd2/mmcblk0p28	J
+    2.711660104	Q	WS	 4081176	   8	 137	     jbd2/mmcblk0p28	J
+    2.711745624	M	WS	 4081176	   8	 137	     jbd2/mmcblk0p28	J
+    2.711897551	A	WS	 4081184	   8	 137	     jbd2/mmcblk0p28	J
+    2.711981926	Q	WS	 4081184	   8	 137	     jbd2/mmcblk0p28	J
+    2.712064843	M	WS	 4081184	   8	 137	     jbd2/mmcblk0p28	J
+    2.712217031	A	WS	 4081192	   8	 137	     jbd2/mmcblk0p28	J
+    2.712300051	Q	WS	 4081192	   8	 137	     jbd2/mmcblk0p28	J
+    2.712382343	M	WS	 4081192	   8	 137	     jbd2/mmcblk0p28	J
+    2.712532864	A	WS	 4081200	   8	 137	     jbd2/mmcblk0p28	J
+    2.712612864	Q	WS	 4081200	   8	 137	     jbd2/mmcblk0p28	J
+    2.712695781	M	WS	 4081200	   8	 137	     jbd2/mmcblk0p28	J
+    2.712853541	A	WS	 4081208	   8	 137	     jbd2/mmcblk0p28	J
+    2.712944739	Q	WS	 4081208	   8	 137	     jbd2/mmcblk0p28	J
+    2.713043958	M	WS	 4081208	   8	 137	     jbd2/mmcblk0p28	J
+    2.713200103	A	WS	 4081216	   8	 137	     jbd2/mmcblk0p28	J
+    2.713293176	Q	WS	 4081216	   8	 137	     jbd2/mmcblk0p28	J
+    2.713450624	M	WS	 4081216	   8	 137	     jbd2/mmcblk0p28	J
+    2.713542135	A	WS	 4081224	   8	 137	     jbd2/mmcblk0p28	J
+    2.713628697	Q	WS	 4081224	   8	 137	     jbd2/mmcblk0p28	J
+    2.713786041	M	WS	 4081224	   8	 137	     jbd2/mmcblk0p28	J
+    2.713887551	A	WS	 4081232	   8	 137	     jbd2/mmcblk0p28	J
+    2.714048645	Q	WS	 4081232	   8	 137	     jbd2/mmcblk0p28	J
+    2.714134322	M	WS	 4081232	   8	 137	     jbd2/mmcblk0p28	J
+    2.714228385	I	WS	 4081128	 112	 137	     jbd2/mmcblk0p28	J
+    2.714420416	D	WAS	 4081128	 112	 137	     jbd2/mmcblk0p28	J
+    2.718280468	C	WAS	 4081128	 112	 137	     jbd2/mmcblk0p28	J
+    2.718607187	A	WBS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.718694375	Q	WBS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.718786250	G	WBS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.718947239	I	WBS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.719242916	D	WS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.720062968	C	WS	 4081240	   8	 137	     jbd2/mmcblk0p28	J
+    2.720149531	C	WS	 4081240	   0	 137	     jbd2/mmcblk0p28	J
+    2.720641562	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.720841874	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.720979583	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.721197760	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.721350937	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.722173020	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.722488385	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.722641406	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.722983124	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.723270416	C	WS	       0	   0	 135	         flush-179:0	M
+    2.723530833	A	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.723661145	Q	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.723840416	G	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.723973853	A	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.724276145	Q	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.724381457	G	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.724599739	I	WS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.724740625	I	WS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.724931771	D	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.725232187	D	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.725791823	C	WAS	23901656	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.726396927	C	WAS	 7382624	   8	503336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db
+    2.726659375	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.726788646	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.726892500	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.727234479	C	WS	       0	   0	 135	         flush-179:0	M
+    2.727426666	A	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.727521302	Q	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.727726041	G	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.727836718	I	WS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.727973593	D	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.728988125	C	WAS	23901648	   8	103336	           GCMReader	D	/data/com.google.android.gms/databases/rmq.db-journal
+    2.730007968	Q	WBS	       0	   0	 135	         flush-179:0	M
+    2.730148802	G	WBS	       0	   0	 135	         flush-179:0	M
+    2.730376822	I	WBS	       0	   0	 135	         flush-179:0	M
+    2.730627083	C	WS	       0	   0	 135	         flush-179:0	M
+    2.790570572	A	WS	23029944	   8	4813	     IntentService[]	M
+    2.790660520	Q	WS	23029944	   8	4813	     IntentService[]	M
+    2.790823593	G	WS	23029944	   8	4813	     IntentService[]	M
+    2.790926458	I	WS	23029944	   8	4813	     IntentService[]	M
+    2.791144062	D	WAS	23029944	   8	4813	     IntentService[]	M
+    2.792131197	C	WAS	23029944	   8	4813	     IntentService[]	M
+    2.792549687	A	WS	 4081248	   8	 137	     jbd2/mmcblk0p28	J
+    2.792624687	Q	WS	 4081248	   8	 137	     jbd2/mmcblk0p28	J
+    2.792705833	G	WS	 4081248	   8	 137	     jbd2/mmcblk0p28	J
+    2.792840728	A	WS	 4081256	   8	 137	     jbd2/mmcblk0p28	J
+    2.792915989	Q	WS	 4081256	   8	 137	     jbd2/mmcblk0p28	J
+    2.792995051	M	WS	 4081256	   8	 137	     jbd2/mmcblk0p28	J
+    2.793075416	A	WS	 4081264	   8	 137	     jbd2/mmcblk0p28	J
+    2.793208958	Q	WS	 4081264	   8	 137	     jbd2/mmcblk0p28	J
+    2.793286562	M	WS	 4081264	   8	 137	     jbd2/mmcblk0p28	J
+    2.793421353	A	WS	 4081272	   8	 137	     jbd2/mmcblk0p28	J
+    2.793494478	Q	WS	 4081272	   8	 137	     jbd2/mmcblk0p28	J
+    2.793568958	M	WS	 4081272	   8	 137	     jbd2/mmcblk0p28	J
+    2.793644583	A	WS	 4081280	   8	 137	     jbd2/mmcblk0p28	J
+    2.793718645	Q	WS	 4081280	   8	 137	     jbd2/mmcblk0p28	J
+    2.793793020	M	WS	 4081280	   8	 137	     jbd2/mmcblk0p28	J
+    2.793929843	A	WS	 4081288	   8	 137	     jbd2/mmcblk0p28	J
+    2.794003072	Q	WS	 4081288	   8	 137	     jbd2/mmcblk0p28	J
+    2.794080103	M	WS	 4081288	   8	 137	     jbd2/mmcblk0p28	J
+    2.794215103	A	WS	 4081296	   8	 137	     jbd2/mmcblk0p28	J
+    2.794293124	Q	WS	 4081296	   8	 137	     jbd2/mmcblk0p28	J
+    2.794367395	M	WS	 4081296	   8	 137	     jbd2/mmcblk0p28	J
+    2.794501562	A	WS	 4081304	   8	 137	     jbd2/mmcblk0p28	J
+    2.794578020	Q	WS	 4081304	   8	 137	     jbd2/mmcblk0p28	J
+    2.794653697	M	WS	 4081304	   8	 137	     jbd2/mmcblk0p28	J
+    2.794831979	A	WS	 4081312	   8	 137	     jbd2/mmcblk0p28	J
+    2.794948385	Q	WS	 4081312	   8	 137	     jbd2/mmcblk0p28	J
+    2.795026510	M	WS	 4081312	   8	 137	     jbd2/mmcblk0p28	J
+    2.795163646	A	WS	 4081320	   8	 137	     jbd2/mmcblk0p28	J
+    2.795236719	Q	WS	 4081320	   8	 137	     jbd2/mmcblk0p28	J
+    2.795312969	M	WS	 4081320	   8	 137	     jbd2/mmcblk0p28	J
+    2.795453802	A	WS	 4081328	   8	 137	     jbd2/mmcblk0p28	J
+    2.795529896	Q	WS	 4081328	   8	 137	     jbd2/mmcblk0p28	J
+    2.795668541	M	WS	 4081328	   8	 137	     jbd2/mmcblk0p28	J
+    2.795746823	A	WS	 4081336	   8	 137	     jbd2/mmcblk0p28	J
+    2.795879323	Q	WS	 4081336	   8	 137	     jbd2/mmcblk0p28	J
+    2.795956823	M	WS	 4081336	   8	 137	     jbd2/mmcblk0p28	J
+    2.796039010	I	WS	 4081248	  96	 137	     jbd2/mmcblk0p28	J
+    2.796206406	D	WAS	 4081248	  96	 137	     jbd2/mmcblk0p28	J
+    2.799425468	C	WAS	 4081248	  96	 137	     jbd2/mmcblk0p28	J
+    2.799760729	A	WBS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.799883437	Q	WBS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.800068697	G	WBS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.800163385	I	WBS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.800483281	D	WS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.801289010	C	WS	 4081344	   8	 137	     jbd2/mmcblk0p28	J
+    2.801478124	C	WS	 4081344	   0	 137	     jbd2/mmcblk0p28	J
+    2.810825572	A	WS	23959600	   8	4813	     IntentService[]	M
+    2.810994479	Q	WS	23959600	   8	4813	     IntentService[]	M
+    2.811136458	G	WS	23959600	   8	4813	     IntentService[]	M
+    2.811324635	I	WS	23959600	   8	4813	     IntentService[]	M
+    2.811452499	D	WAS	23959600	   8	4813	     IntentService[]	M
+    2.812470156	C	WAS	23959600	   8	4813	     IntentService[]	M
+    2.812767499	A	WS	 4081352	   8	 137	     jbd2/mmcblk0p28	J
+    2.812921197	Q	WS	 4081352	   8	 137	     jbd2/mmcblk0p28	J
+    2.813008072	G	WS	 4081352	   8	 137	     jbd2/mmcblk0p28	J
+    2.813086614	A	WS	 4081360	   8	 137	     jbd2/mmcblk0p28	J
+    2.813216093	Q	WS	 4081360	   8	 137	     jbd2/mmcblk0p28	J
+    2.813291822	M	WS	 4081360	   8	 137	     jbd2/mmcblk0p28	J
+    2.813370937	A	WS	 4081368	   8	 137	     jbd2/mmcblk0p28	J
+    2.813511301	Q	WS	 4081368	   8	 137	     jbd2/mmcblk0p28	J
+    2.813599218	M	WS	 4081368	   8	 137	     jbd2/mmcblk0p28	J
+    2.813733801	A	WS	 4081376	   8	 137	     jbd2/mmcblk0p28	J
+    2.813808645	Q	WS	 4081376	   8	 137	     jbd2/mmcblk0p28	J
+    2.813945416	M	WS	 4081376	   8	 137	     jbd2/mmcblk0p28	J
+    2.814025051	A	WS	 4081384	   8	 137	     jbd2/mmcblk0p28	J
+    2.814098905	Q	WS	 4081384	   8	 137	     jbd2/mmcblk0p28	J
+    2.814235051	M	WS	 4081384	   8	 137	     jbd2/mmcblk0p28	J
+    2.814318645	A	WS	 4081392	   8	 137	     jbd2/mmcblk0p28	J
+    2.814477603	Q	WS	 4081392	   8	 137	     jbd2/mmcblk0p28	J
+    2.814557291	M	WS	 4081392	   8	 137	     jbd2/mmcblk0p28	J
+    2.814634062	A	WS	 4081400	   8	 137	     jbd2/mmcblk0p28	J
+    2.814739791	Q	WS	 4081400	   8	 137	     jbd2/mmcblk0p28	J
+    2.814877864	M	WS	 4081400	   8	 137	     jbd2/mmcblk0p28	J
+    2.814957448	A	WS	 4081408	   8	 137	     jbd2/mmcblk0p28	J
+    2.815030885	Q	WS	 4081408	   8	 137	     jbd2/mmcblk0p28	J
+    2.815161354	M	WS	 4081408	   8	 137	     jbd2/mmcblk0p28	J
+    2.815236562	A	WS	 4081416	   8	 137	     jbd2/mmcblk0p28	J
+    2.815307916	Q	WS	 4081416	   8	 137	     jbd2/mmcblk0p28	J
+    2.815436719	M	WS	 4081416	   8	 137	     jbd2/mmcblk0p28	J
+    2.815511927	A	WS	 4081424	   8	 137	     jbd2/mmcblk0p28	J
+    2.815582552	Q	WS	 4081424	   8	 137	     jbd2/mmcblk0p28	J
+    2.815714791	M	WS	 4081424	   8	 137	     jbd2/mmcblk0p28	J
+    2.815795000	A	WS	 4081432	   8	 137	     jbd2/mmcblk0p28	J
+    2.815928750	Q	WS	 4081432	   8	 137	     jbd2/mmcblk0p28	J
+    2.816007187	M	WS	 4081432	   8	 137	     jbd2/mmcblk0p28	J
+    2.816151406	I	WS	 4081352	  88	 137	     jbd2/mmcblk0p28	J
+    2.816260260	D	WAS	 4081352	  88	 137	     jbd2/mmcblk0p28	J
+    2.819462864	C	WAS	 4081352	  88	 137	     jbd2/mmcblk0p28	J
+    2.819712291	A	WBS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.819789062	Q	WBS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.819930312	G	WBS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.820009531	I	WBS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.820232135	D	WS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.821112343	C	WS	 4081440	   8	 137	     jbd2/mmcblk0p28	J
+    2.821195156	C	WS	 4081440	   0	 137	     jbd2/mmcblk0p28	J
+    2.824876614	A	WS	22968480	   8	4813	     IntentService[]	M
+    2.824942031	Q	WS	22968480	   8	4813	     IntentService[]	M
+    2.825076875	G	WS	22968480	   8	4813	     IntentService[]	M
+    2.825187135	I	WS	22968480	   8	4813	     IntentService[]	M
+    2.825326354	D	WAS	22968480	   8	4813	     IntentService[]	M
+    2.826338125	C	WAS	22968480	   8	4813	     IntentService[]	M
+    2.826746718	A	WS	 4081448	   8	 137	     jbd2/mmcblk0p28	J
+    2.826900156	Q	WS	 4081448	   8	 137	     jbd2/mmcblk0p28	J
+    2.827112135	G	WS	 4081448	   8	 137	     jbd2/mmcblk0p28	J
+    2.827209583	A	WS	 4081456	   8	 137	     jbd2/mmcblk0p28	J
+    2.827407135	Q	WS	 4081456	   8	 137	     jbd2/mmcblk0p28	J
+    2.827519218	M	WS	 4081456	   8	 137	     jbd2/mmcblk0p28	J
+    2.827693645	A	WS	 4081464	   8	 137	     jbd2/mmcblk0p28	J
+    2.827778645	Q	WS	 4081464	   8	 137	     jbd2/mmcblk0p28	J
+    2.827898020	M	WS	 4081464	   8	 137	     jbd2/mmcblk0p28	J
+    2.828084166	A	WS	 4081472	   8	 137	     jbd2/mmcblk0p28	J
+    2.828171822	Q	WS	 4081472	   8	 137	     jbd2/mmcblk0p28	J
+    2.828265104	M	WS	 4081472	   8	 137	     jbd2/mmcblk0p28	J
+    2.828449687	A	WS	 4081480	   8	 137	     jbd2/mmcblk0p28	J
+    2.828549114	Q	WS	 4081480	   8	 137	     jbd2/mmcblk0p28	J
+    2.828639791	M	WS	 4081480	   8	 137	     jbd2/mmcblk0p28	J
+    2.828820729	A	WS	 4081488	   8	 137	     jbd2/mmcblk0p28	J
+    2.828937552	Q	WS	 4081488	   8	 137	     jbd2/mmcblk0p28	J
+    2.829032760	M	WS	 4081488	   8	 137	     jbd2/mmcblk0p28	J
+    2.829183020	A	WS	 4081496	   8	 137	     jbd2/mmcblk0p28	J
+    2.829287916	Q	WS	 4081496	   8	 137	     jbd2/mmcblk0p28	J
+    2.829407083	M	WS	 4081496	   8	 137	     jbd2/mmcblk0p28	J
+    2.829583020	A	WS	 4081504	   8	 137	     jbd2/mmcblk0p28	J
+    2.829676197	Q	WS	 4081504	   8	 137	     jbd2/mmcblk0p28	J
+    2.829891666	M	WS	 4081504	   8	 137	     jbd2/mmcblk0p28	J
+    2.829999322	A	WS	 4081512	   8	 137	     jbd2/mmcblk0p28	J
+    2.830097031	Q	WS	 4081512	   8	 137	     jbd2/mmcblk0p28	J
+    2.830280833	M	WS	 4081512	   8	 137	     jbd2/mmcblk0p28	J
+    2.830427447	A	WS	 4081520	   8	 137	     jbd2/mmcblk0p28	J
+    2.830513958	Q	WS	 4081520	   8	 137	     jbd2/mmcblk0p28	J
+    2.830690468	M	WS	 4081520	   8	 137	     jbd2/mmcblk0p28	J
+    2.830785624	A	WS	 4081528	   8	 137	     jbd2/mmcblk0p28	J
+    2.830866718	Q	WS	 4081528	   8	 137	     jbd2/mmcblk0p28	J
+    2.831015572	M	WS	 4081528	   8	 137	     jbd2/mmcblk0p28	J
+    2.831103489	I	WS	 4081448	  88	 137	     jbd2/mmcblk0p28	J
+    2.831372812	D	WAS	 4081448	  88	 137	     jbd2/mmcblk0p28	J
+    2.834060468	C	WAS	 4081448	  88	 137	     jbd2/mmcblk0p28	J
+    2.834251041	A	WBS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.834383176	Q	WBS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.834462343	G	WBS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.834539635	I	WBS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.834818750	D	WS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.835573906	C	WS	 4081536	   8	 137	     jbd2/mmcblk0p28	J
+    2.835652916	C	WS	 4081536	   0	 137	     jbd2/mmcblk0p28	J
+    2.840995989	A	WS	23029952	   8	4813	     IntentService[]	M
+    2.841078906	Q	WS	23029952	   8	4813	     IntentService[]	M
+    2.841269166	G	WS	23029952	   8	4813	     IntentService[]	M
+    2.841370572	I	WS	23029952	   8	4813	     IntentService[]	M
+    2.841599478	D	WAS	23029952	   8	4813	     IntentService[]	M
+    2.842485781	C	WAS	23029952	   8	4813	     IntentService[]	M
+    2.842792447	A	WS	 4081544	   8	 137	     jbd2/mmcblk0p28	J
+    2.842886666	Q	WS	 4081544	   8	 137	     jbd2/mmcblk0p28	J
+    2.842998541	G	WS	 4081544	   8	 137	     jbd2/mmcblk0p28	J
+    2.843170572	A	WS	 4081552	   8	 137	     jbd2/mmcblk0p28	J
+    2.843261510	Q	WS	 4081552	   8	 137	     jbd2/mmcblk0p28	J
+    2.843348072	M	WS	 4081552	   8	 137	     jbd2/mmcblk0p28	J
+    2.843575780	A	WS	 4081560	   8	 137	     jbd2/mmcblk0p28	J
+    2.843669791	Q	WS	 4081560	   8	 137	     jbd2/mmcblk0p28	J
+    2.843841978	M	WS	 4081560	   8	 137	     jbd2/mmcblk0p28	J
+    2.843952187	A	WS	 4081568	   8	 137	     jbd2/mmcblk0p28	J
+    2.844155520	Q	WS	 4081568	   8	 137	     jbd2/mmcblk0p28	J
+    2.844241510	M	WS	 4081568	   8	 137	     jbd2/mmcblk0p28	J
+    2.844338593	A	WS	 4081576	   8	 137	     jbd2/mmcblk0p28	J
+    2.844428801	Q	WS	 4081576	   8	 137	     jbd2/mmcblk0p28	J
+    2.844618332	M	WS	 4081576	   8	 137	     jbd2/mmcblk0p28	J
+    2.844769583	A	WS	 4081584	   8	 137	     jbd2/mmcblk0p28	J
+    2.844927916	Q	WS	 4081584	   8	 137	     jbd2/mmcblk0p28	J
+    2.845091927	M	WS	 4081584	   8	 137	     jbd2/mmcblk0p28	J
+    2.845231041	A	WS	 4081592	   8	 137	     jbd2/mmcblk0p28	J
+    2.845457187	Q	WS	 4081592	   8	 137	     jbd2/mmcblk0p28	J
+    2.845620885	M	WS	 4081592	   8	 137	     jbd2/mmcblk0p28	J
+    2.845788646	A	WS	 4081600	   8	 137	     jbd2/mmcblk0p28	J
+    2.845978541	Q	WS	 4081600	   8	 137	     jbd2/mmcblk0p28	J
+    2.846144166	M	WS	 4081600	   8	 137	     jbd2/mmcblk0p28	J
+    2.846286510	A	WS	 4081608	   8	 137	     jbd2/mmcblk0p28	J
+    2.846468698	Q	WS	 4081608	   8	 137	     jbd2/mmcblk0p28	J
+    2.846594375	M	WS	 4081608	   8	 137	     jbd2/mmcblk0p28	J
+    2.846691666	A	WS	 4081616	   8	 137	     jbd2/mmcblk0p28	J
+    2.846861302	Q	WS	 4081616	   8	 137	     jbd2/mmcblk0p28	J
+    2.846945573	M	WS	 4081616	   8	 137	     jbd2/mmcblk0p28	J
+    2.847024531	A	WS	 4081624	   8	 137	     jbd2/mmcblk0p28	J
+    2.847162448	Q	WS	 4081624	   8	 137	     jbd2/mmcblk0p28	J
+    2.847242500	M	WS	 4081624	   8	 137	     jbd2/mmcblk0p28	J
+    2.847319427	A	WS	 4081632	   8	 137	     jbd2/mmcblk0p28	J
+    2.847453802	Q	WS	 4081632	   8	 137	     jbd2/mmcblk0p28	J
+    2.847578073	M	WS	 4081632	   8	 137	     jbd2/mmcblk0p28	J
+    2.847681198	A	WS	 4081640	   8	 137	     jbd2/mmcblk0p28	J
+    2.847756666	Q	WS	 4081640	   8	 137	     jbd2/mmcblk0p28	J
+    2.847891198	M	WS	 4081640	   8	 137	     jbd2/mmcblk0p28	J
+    2.847995989	I	WS	 4081544	 104	 137	     jbd2/mmcblk0p28	J
+    2.848108177	D	WAS	 4081544	 104	 137	     jbd2/mmcblk0p28	J
+    2.849989270	C	WAS	 4081544	 104	 137	     jbd2/mmcblk0p28	J
+    2.850186145	A	WBS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.850261197	Q	WBS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.850396406	G	WBS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.850476041	I	WBS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.850696562	D	WS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.851501145	C	WS	 4081648	   8	 137	     jbd2/mmcblk0p28	J
+    2.851584322	C	WS	 4081648	   0	 137	     jbd2/mmcblk0p28	J
+    2.856574114	A	WS	23959608	   8	4813	     IntentService[]	M
+    2.856654010	Q	WS	23959608	   8	4813	     IntentService[]	M
+    2.856799427	G	WS	23959608	   8	4813	     IntentService[]	M
+    2.856890312	I	WS	23959608	   8	4813	     IntentService[]	M
+    2.857062291	D	WAS	23959608	   8	4813	     IntentService[]	M
+    2.858032239	C	WAS	23959608	   8	4813	     IntentService[]	M
+    2.858286979	A	WS	 4081656	   8	 137	     jbd2/mmcblk0p28	J
+    2.858332343	Q	WS	 4081656	   8	 137	     jbd2/mmcblk0p28	J
+    2.858381770	G	WS	 4081656	   8	 137	     jbd2/mmcblk0p28	J
+    2.858463125	A	WS	 4081664	   8	 137	     jbd2/mmcblk0p28	J
+    2.858506979	Q	WS	 4081664	   8	 137	     jbd2/mmcblk0p28	J
+    2.858551093	M	WS	 4081664	   8	 137	     jbd2/mmcblk0p28	J
+    2.858603437	A	WS	 4081672	   8	 137	     jbd2/mmcblk0p28	J
+    2.858679218	Q	WS	 4081672	   8	 137	     jbd2/mmcblk0p28	J
+    2.858724479	M	WS	 4081672	   8	 137	     jbd2/mmcblk0p28	J
+    2.858769739	A	WS	 4081680	   8	 137	     jbd2/mmcblk0p28	J
+    2.858847812	Q	WS	 4081680	   8	 137	     jbd2/mmcblk0p28	J
+    2.858892083	M	WS	 4081680	   8	 137	     jbd2/mmcblk0p28	J
+    2.858937500	A	WS	 4081688	   8	 137	     jbd2/mmcblk0p28	J
+    2.859012604	Q	WS	 4081688	   8	 137	     jbd2/mmcblk0p28	J
+    2.859054322	M	WS	 4081688	   8	 137	     jbd2/mmcblk0p28	J
+    2.859097447	A	WS	 4081696	   8	 137	     jbd2/mmcblk0p28	J
+    2.859170833	Q	WS	 4081696	   8	 137	     jbd2/mmcblk0p28	J
+    2.859213593	M	WS	 4081696	   8	 137	     jbd2/mmcblk0p28	J
+    2.859291197	A	WS	 4081704	   8	 137	     jbd2/mmcblk0p28	J
+    2.859333906	Q	WS	 4081704	   8	 137	     jbd2/mmcblk0p28	J
+    2.859376510	M	WS	 4081704	   8	 137	     jbd2/mmcblk0p28	J
+    2.859449791	A	WS	 4081712	   8	 137	     jbd2/mmcblk0p28	J
+    2.859489843	Q	WS	 4081712	   8	 137	     jbd2/mmcblk0p28	J
+    2.859530937	M	WS	 4081712	   8	 137	     jbd2/mmcblk0p28	J
+    2.859605260	A	WS	 4081720	   8	 137	     jbd2/mmcblk0p28	J
+    2.859646562	Q	WS	 4081720	   8	 137	     jbd2/mmcblk0p28	J
+    2.859687760	M	WS	 4081720	   8	 137	     jbd2/mmcblk0p28	J
+    2.859762864	A	WS	 4081728	   8	 137	     jbd2/mmcblk0p28	J
+    2.859805052	Q	WS	 4081728	   8	 137	     jbd2/mmcblk0p28	J
+    2.859848281	M	WS	 4081728	   8	 137	     jbd2/mmcblk0p28	J
+    2.859928385	I	WS	 4081656	  80	 137	     jbd2/mmcblk0p28	J
+    2.860038593	D	WAS	 4081656	  80	 137	     jbd2/mmcblk0p28	J
+    2.863913593	C	WAS	 4081656	  80	 137	     jbd2/mmcblk0p28	J
+    2.864090207	A	WBS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.864161353	Q	WBS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.864213593	G	WBS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.864312603	I	WBS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.864533072	D	WS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.865262291	C	WS	 4081736	   8	 137	     jbd2/mmcblk0p28	J
+    2.865342344	C	WS	 4081736	   0	 137	     jbd2/mmcblk0p28	J
+    2.873543697	A	WS	23959616	   8	4813	     IntentService[]	M
+    2.873683333	Q	WS	23959616	   8	4813	     IntentService[]	M
+    2.873786718	G	WS	23959616	   8	4813	     IntentService[]	M
+    2.874021926	I	WS	23959616	   8	4813	     IntentService[]	M
+    2.874158332	D	WAS	23959616	   8	4813	     IntentService[]	M
+    2.875572760	C	WAS	23959616	   8	4813	     IntentService[]	M
+    2.875849635	A	WS	 4081744	   8	 137	     jbd2/mmcblk0p28	J
+    2.875911354	Q	WS	 4081744	   8	 137	     jbd2/mmcblk0p28	J
+    2.876028541	G	WS	 4081744	   8	 137	     jbd2/mmcblk0p28	J
+    2.876097552	A	WS	 4081752	   8	 137	     jbd2/mmcblk0p28	J
+    2.876212239	Q	WS	 4081752	   8	 137	     jbd2/mmcblk0p28	J
+    2.876287239	M	WS	 4081752	   8	 137	     jbd2/mmcblk0p28	J
+    2.876351666	A	WS	 4081760	   8	 137	     jbd2/mmcblk0p28	J
+    2.876448906	Q	WS	 4081760	   8	 137	     jbd2/mmcblk0p28	J
+    2.876516041	M	WS	 4081760	   8	 137	     jbd2/mmcblk0p28	J
+    2.876630000	A	WS	 4081768	   8	 137	     jbd2/mmcblk0p28	J
+    2.876672135	Q	WS	 4081768	   8	 137	     jbd2/mmcblk0p28	J
+    2.876716562	M	WS	 4081768	   8	 137	     jbd2/mmcblk0p28	J
+    2.876792812	A	WS	 4081776	   8	 137	     jbd2/mmcblk0p28	J
+    2.876835156	Q	WS	 4081776	   8	 137	     jbd2/mmcblk0p28	J
+    2.876877500	M	WS	 4081776	   8	 137	     jbd2/mmcblk0p28	J
+    2.876952916	A	WS	 4081784	   8	 137	     jbd2/mmcblk0p28	J
+    2.876995781	Q	WS	 4081784	   8	 137	     jbd2/mmcblk0p28	J
+    2.877038020	M	WS	 4081784	   8	 137	     jbd2/mmcblk0p28	J
+    2.877113802	A	WS	 4081792	   8	 137	     jbd2/mmcblk0p28	J
+    2.877154270	Q	WS	 4081792	   8	 137	     jbd2/mmcblk0p28	J
+    2.877196562	M	WS	 4081792	   8	 137	     jbd2/mmcblk0p28	J
+    2.877271770	A	WS	 4081800	   8	 137	     jbd2/mmcblk0p28	J
+    2.877314427	Q	WS	 4081800	   8	 137	     jbd2/mmcblk0p28	J
+    2.877356302	M	WS	 4081800	   8	 137	     jbd2/mmcblk0p28	J
+    2.877430989	A	WS	 4081808	   8	 137	     jbd2/mmcblk0p28	J
+    2.877471823	Q	WS	 4081808	   8	 137	     jbd2/mmcblk0p28	J
+    2.877545208	M	WS	 4081808	   8	 137	     jbd2/mmcblk0p28	J
+    2.877588958	A	WS	 4081816	   8	 137	     jbd2/mmcblk0p28	J
+    2.877662708	Q	WS	 4081816	   8	 137	     jbd2/mmcblk0p28	J
+    2.877704479	M	WS	 4081816	   8	 137	     jbd2/mmcblk0p28	J
+    2.877751302	I	WS	 4081744	  80	 137	     jbd2/mmcblk0p28	J
+    2.877913125	D	WAS	 4081744	  80	 137	     jbd2/mmcblk0p28	J
+    2.880867708	C	WAS	 4081744	  80	 137	     jbd2/mmcblk0p28	J
+    2.881099426	A	WBS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.881162916	Q	WBS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.881228854	G	WBS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.881326301	I	WBS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.881561406	D	WS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.882328437	C	WS	 4081824	   8	 137	     jbd2/mmcblk0p28	J
+    2.882468593	C	WS	 4081824	   0	 137	     jbd2/mmcblk0p28	J
+    2.887417031	A	WS	23959624	   8	4813	     IntentService[]	M
+    2.887552656	Q	WS	23959624	   8	4813	     IntentService[]	M
+    2.887638958	G	WS	23959624	   8	4813	     IntentService[]	M
+    2.887788385	I	WS	23959624	   8	4813	     IntentService[]	M
+    2.887957500	D	WAS	23959624	   8	4813	     IntentService[]	M
+    2.888748125	C	WAS	23959624	   8	4813	     IntentService[]	M
+    2.889004687	A	WS	 4081832	   8	 137	     jbd2/mmcblk0p28	J
+    2.889079010	Q	WS	 4081832	   8	 137	     jbd2/mmcblk0p28	J
+    2.889123958	G	WS	 4081832	   8	 137	     jbd2/mmcblk0p28	J
+    2.889199999	A	WS	 4081840	   8	 137	     jbd2/mmcblk0p28	J
+    2.889240729	Q	WS	 4081840	   8	 137	     jbd2/mmcblk0p28	J
+    2.889284062	M	WS	 4081840	   8	 137	     jbd2/mmcblk0p28	J
+    2.889327187	A	WS	 4081848	   8	 137	     jbd2/mmcblk0p28	J
+    2.889399218	Q	WS	 4081848	   8	 137	     jbd2/mmcblk0p28	J
+    2.889440260	M	WS	 4081848	   8	 137	     jbd2/mmcblk0p28	J
+    2.889482499	A	WS	 4081856	   8	 137	     jbd2/mmcblk0p28	J
+    2.889523749	Q	WS	 4081856	   8	 137	     jbd2/mmcblk0p28	J
+    2.889565520	M	WS	 4081856	   8	 137	     jbd2/mmcblk0p28	J
+    2.889608593	A	WS	 4081864	   8	 137	     jbd2/mmcblk0p28	J
+    2.889681458	Q	WS	 4081864	   8	 137	     jbd2/mmcblk0p28	J
+    2.889722656	M	WS	 4081864	   8	 137	     jbd2/mmcblk0p28	J
+    2.889765260	A	WS	 4081872	   8	 137	     jbd2/mmcblk0p28	J
+    2.889837343	Q	WS	 4081872	   8	 137	     jbd2/mmcblk0p28	J
+    2.889878645	M	WS	 4081872	   8	 137	     jbd2/mmcblk0p28	J
+    2.889922552	A	WS	 4081880	   8	 137	     jbd2/mmcblk0p28	J
+    2.889994479	Q	WS	 4081880	   8	 137	     jbd2/mmcblk0p28	J
+    2.890035885	M	WS	 4081880	   8	 137	     jbd2/mmcblk0p28	J
+    2.890078437	A	WS	 4081888	   8	 137	     jbd2/mmcblk0p28	J
+    2.890154166	Q	WS	 4081888	   8	 137	     jbd2/mmcblk0p28	J
+    2.890197239	M	WS	 4081888	   8	 137	     jbd2/mmcblk0p28	J
+    2.890241197	A	WS	 4081896	   8	 137	     jbd2/mmcblk0p28	J
+    2.890314270	Q	WS	 4081896	   8	 137	     jbd2/mmcblk0p28	J
+    2.890357552	M	WS	 4081896	   8	 137	     jbd2/mmcblk0p28	J
+    2.890403333	I	WS	 4081832	  72	 137	     jbd2/mmcblk0p28	J
+    2.890566666	D	WAS	 4081832	  72	 137	     jbd2/mmcblk0p28	J
+    2.892444478	C	WAS	 4081832	  72	 137	     jbd2/mmcblk0p28	J
+    2.892630051	A	WBS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.892674270	Q	WBS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.892761822	G	WBS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.892823749	I	WBS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.893294895	D	WS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.894144426	C	WS	 4081904	   8	 137	     jbd2/mmcblk0p28	J
+    2.894293072	C	WS	 4081904	   0	 137	     jbd2/mmcblk0p28	J
+    2.906315364	A	WS	23029960	   8	4813	     IntentService[]	M
+    2.906393698	Q	WS	23029960	   8	4813	     IntentService[]	M
+    2.906443750	G	WS	23029960	   8	4813	     IntentService[]	M
+    2.906530000	I	WS	23029960	   8	4813	     IntentService[]	M
+    2.906643021	D	WAS	23029960	   8	4813	     IntentService[]	M
+    2.907607239	C	WAS	23029960	   8	4813	     IntentService[]	M
+    2.907903125	A	WS	 4081912	   8	 137	     jbd2/mmcblk0p28	J
+    2.907984895	Q	WS	 4081912	   8	 137	     jbd2/mmcblk0p28	J
+    2.908033281	G	WS	 4081912	   8	 137	     jbd2/mmcblk0p28	J
+    2.908125572	A	WS	 4081920	   8	 137	     jbd2/mmcblk0p28	J
+    2.908175572	Q	WS	 4081920	   8	 137	     jbd2/mmcblk0p28	J
+    2.908350052	M	WS	 4081920	   8	 137	     jbd2/mmcblk0p28	J
+    2.908467239	A	WS	 4081928	   8	 137	     jbd2/mmcblk0p28	J
+    2.908559427	Q	WS	 4081928	   8	 137	     jbd2/mmcblk0p28	J
+    2.908603645	M	WS	 4081928	   8	 137	     jbd2/mmcblk0p28	J
+    2.908648125	A	WS	 4081936	   8	 137	     jbd2/mmcblk0p28	J
+    2.908689687	Q	WS	 4081936	   8	 137	     jbd2/mmcblk0p28	J
+    2.908823906	M	WS	 4081936	   8	 137	     jbd2/mmcblk0p28	J
+    2.908975885	A	WS	 4081944	   8	 137	     jbd2/mmcblk0p28	J
+    2.909043333	Q	WS	 4081944	   8	 137	     jbd2/mmcblk0p28	J
+    2.909127031	M	WS	 4081944	   8	 137	     jbd2/mmcblk0p28	J
+    2.909174218	A	WS	 4081952	   8	 137	     jbd2/mmcblk0p28	J
+    2.909221510	Q	WS	 4081952	   8	 137	     jbd2/mmcblk0p28	J
+    2.909374374	M	WS	 4081952	   8	 137	     jbd2/mmcblk0p28	J
+    2.909474374	A	WS	 4081960	   8	 137	     jbd2/mmcblk0p28	J
+    2.909558020	Q	WS	 4081960	   8	 137	     jbd2/mmcblk0p28	J
+    2.909641666	M	WS	 4081960	   8	 137	     jbd2/mmcblk0p28	J
+    2.909688072	A	WS	 4081968	   8	 137	     jbd2/mmcblk0p28	J
+    2.909733489	Q	WS	 4081968	   8	 137	     jbd2/mmcblk0p28	J
+    2.909830052	M	WS	 4081968	   8	 137	     jbd2/mmcblk0p28	J
+    2.909973489	A	WS	 4081976	   8	 137	     jbd2/mmcblk0p28	J
+    2.910019895	Q	WS	 4081976	   8	 137	     jbd2/mmcblk0p28	J
+    2.910100677	M	WS	 4081976	   8	 137	     jbd2/mmcblk0p28	J
+    2.910147083	A	WS	 4081984	   8	 137	     jbd2/mmcblk0p28	J
+    2.910214374	Q	WS	 4081984	   8	 137	     jbd2/mmcblk0p28	J
+    2.910387968	M	WS	 4081984	   8	 137	     jbd2/mmcblk0p28	J
+    2.910481562	A	WS	 4081992	   8	 137	     jbd2/mmcblk0p28	J
+    2.910528906	Q	WS	 4081992	   8	 137	     jbd2/mmcblk0p28	J
+    2.910608749	M	WS	 4081992	   8	 137	     jbd2/mmcblk0p28	J
+    2.910662551	I	WS	 4081912	  88	 137	     jbd2/mmcblk0p28	J
+    2.910813229	D	WAS	 4081912	  88	 137	     jbd2/mmcblk0p28	J
+    2.914882344	C	WAS	 4081912	  88	 137	     jbd2/mmcblk0p28	J
+    2.915085052	A	WBS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.915191458	Q	WBS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.915258437	G	WBS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.915339010	I	WBS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.915668646	D	WS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.916443802	C	WS	 4082000	   8	 137	     jbd2/mmcblk0p28	J
+    2.916559531	C	WS	 4082000	   0	 137	     jbd2/mmcblk0p28	J
+    2.920493958	A	WS	22968488	   8	4813	     IntentService[]	M
+    2.920537864	Q	WS	22968488	   8	4813	     IntentService[]	M
+    2.920621666	G	WS	22968488	   8	4813	     IntentService[]	M
+    2.920673437	I	WS	22968488	   8	4813	     IntentService[]	M
+    2.920846718	D	WAS	22968488	   8	4813	     IntentService[]	M
+    2.921624374	C	WAS	22968488	   8	4813	     IntentService[]	M
+    2.921819895	A	WS	 4082008	   8	 137	     jbd2/mmcblk0p28	J
+    2.921865781	Q	WS	 4082008	   8	 137	     jbd2/mmcblk0p28	J
+    2.921951406	G	WS	 4082008	   8	 137	     jbd2/mmcblk0p28	J
+    2.922000103	A	WS	 4082016	   8	 137	     jbd2/mmcblk0p28	J
+    2.922077343	Q	WS	 4082016	   8	 137	     jbd2/mmcblk0p28	J
+    2.922125468	M	WS	 4082016	   8	 137	     jbd2/mmcblk0p28	J
+    2.922207760	A	WS	 4082024	   8	 137	     jbd2/mmcblk0p28	J
+    2.922254999	Q	WS	 4082024	   8	 137	     jbd2/mmcblk0p28	J
+    2.922311666	M	WS	 4082024	   8	 137	     jbd2/mmcblk0p28	J
+    2.922394583	A	WS	 4082032	   8	 137	     jbd2/mmcblk0p28	J
+    2.922444426	Q	WS	 4082032	   8	 137	     jbd2/mmcblk0p28	J
+    2.922492291	M	WS	 4082032	   8	 137	     jbd2/mmcblk0p28	J
+    2.922569478	A	WS	 4082040	   8	 137	     jbd2/mmcblk0p28	J
+    2.922612812	Q	WS	 4082040	   8	 137	     jbd2/mmcblk0p28	J
+    2.922657708	M	WS	 4082040	   8	 137	     jbd2/mmcblk0p28	J
+    2.922737760	A	WS	 4082048	   8	 137	     jbd2/mmcblk0p28	J
+    2.922782551	Q	WS	 4082048	   8	 137	     jbd2/mmcblk0p28	J
+    2.922838020	M	WS	 4082048	   8	 137	     jbd2/mmcblk0p28	J
+    2.922931562	A	WS	 4082056	   8	 137	     jbd2/mmcblk0p28	J
+    2.922987603	Q	WS	 4082056	   8	 137	     jbd2/mmcblk0p28	J
+    2.923033749	M	WS	 4082056	   8	 137	     jbd2/mmcblk0p28	J
+    2.923115989	A	WS	 4082064	   8	 137	     jbd2/mmcblk0p28	J
+    2.923161301	Q	WS	 4082064	   8	 137	     jbd2/mmcblk0p28	J
+    2.923241926	M	WS	 4082064	   8	 137	     jbd2/mmcblk0p28	J
+    2.923288072	A	WS	 4082072	   8	 137	     jbd2/mmcblk0p28	J
+    2.923369010	Q	WS	 4082072	   8	 137	     jbd2/mmcblk0p28	J
+    2.923413437	M	WS	 4082072	   8	 137	     jbd2/mmcblk0p28	J
+    2.923496718	A	WS	 4082080	   8	 137	     jbd2/mmcblk0p28	J
+    2.923538958	Q	WS	 4082080	   8	 137	     jbd2/mmcblk0p28	J
+    2.923581718	M	WS	 4082080	   8	 137	     jbd2/mmcblk0p28	J
+    2.923660312	A	WS	 4082088	   8	 137	     jbd2/mmcblk0p28	J
+    2.923702708	Q	WS	 4082088	   8	 137	     jbd2/mmcblk0p28	J
+    2.923745937	M	WS	 4082088	   8	 137	     jbd2/mmcblk0p28	J
+    2.923825207	A	WS	 4082096	   8	 137	     jbd2/mmcblk0p28	J
+    2.923870728	Q	WS	 4082096	   8	 137	     jbd2/mmcblk0p28	J
+    2.923914635	M	WS	 4082096	   8	 137	     jbd2/mmcblk0p28	J
+    2.923998437	I	WS	 4082008	  96	 137	     jbd2/mmcblk0p28	J
+    2.924112135	D	WAS	 4082008	  96	 137	     jbd2/mmcblk0p28	J
+    2.927939531	C	WAS	 4082008	  96	 137	     jbd2/mmcblk0p28	J
+    2.928077604	A	WBS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.928123229	Q	WBS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.928206041	G	WBS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.928256510	I	WBS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.928625312	D	WS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.929494947	C	WS	 4082104	   8	 137	     jbd2/mmcblk0p28	J
+    2.929659739	C	WS	 4082104	   0	 137	     jbd2/mmcblk0p28	J
+    2.933473437	A	WS	22968496	   8	4813	     IntentService[]	M
+    2.933545312	Q	WS	22968496	   8	4813	     IntentService[]	M
+    2.933759218	G	WS	22968496	   8	4813	     IntentService[]	M
+    2.933853801	I	WS	22968496	   8	4813	     IntentService[]	M
+    2.933965416	D	WAS	22968496	   8	4813	     IntentService[]	M
+    2.934906927	C	WAS	22968496	   8	4813	     IntentService[]	M
+    2.935471198	A	WS	 4082112	   8	 137	     jbd2/mmcblk0p28	J
+    2.935654791	Q	WS	 4082112	   8	 137	     jbd2/mmcblk0p28	J
+    2.935730833	G	WS	 4082112	   8	 137	     jbd2/mmcblk0p28	J
+    2.935878125	A	WS	 4082120	   8	 137	     jbd2/mmcblk0p28	J
+    2.935956250	Q	WS	 4082120	   8	 137	     jbd2/mmcblk0p28	J
+    2.936063281	M	WS	 4082120	   8	 137	     jbd2/mmcblk0p28	J
+    2.936115625	A	WS	 4082128	   8	 137	     jbd2/mmcblk0p28	J
+    2.936218385	Q	WS	 4082128	   8	 137	     jbd2/mmcblk0p28	J
+    2.936276146	M	WS	 4082128	   8	 137	     jbd2/mmcblk0p28	J
+    2.936341823	A	WS	 4082136	   8	 137	     jbd2/mmcblk0p28	J
+    2.936601406	Q	WS	 4082136	   8	 137	     jbd2/mmcblk0p28	J
+    2.936665312	M	WS	 4082136	   8	 137	     jbd2/mmcblk0p28	J
+    2.936742552	A	WS	 4082144	   8	 137	     jbd2/mmcblk0p28	J
+    2.936894791	Q	WS	 4082144	   8	 137	     jbd2/mmcblk0p28	J
+    2.936981093	M	WS	 4082144	   8	 137	     jbd2/mmcblk0p28	J
+    2.937055885	A	WS	 4082152	   8	 137	     jbd2/mmcblk0p28	J
+    2.937139635	Q	WS	 4082152	   8	 137	     jbd2/mmcblk0p28	J
+    2.937192916	M	WS	 4082152	   8	 137	     jbd2/mmcblk0p28	J
+    2.937245729	A	WS	 4082160	   8	 137	     jbd2/mmcblk0p28	J
+    2.937337812	Q	WS	 4082160	   8	 137	     jbd2/mmcblk0p28	J
+    2.937456354	M	WS	 4082160	   8	 137	     jbd2/mmcblk0p28	J
+    2.937574323	A	WS	 4082168	   8	 137	     jbd2/mmcblk0p28	J
+    2.937696093	Q	WS	 4082168	   8	 137	     jbd2/mmcblk0p28	J
+    2.937755573	M	WS	 4082168	   8	 137	     jbd2/mmcblk0p28	J
+    2.937835156	A	WS	 4082176	   8	 137	     jbd2/mmcblk0p28	J
+    2.937971406	Q	WS	 4082176	   8	 137	     jbd2/mmcblk0p28	J
+    2.938061458	M	WS	 4082176	   8	 137	     jbd2/mmcblk0p28	J
+    2.938126770	I	WS	 4082112	  72	 137	     jbd2/mmcblk0p28	J
+    2.938325364	D	WAS	 4082112	  72	 137	     jbd2/mmcblk0p28	J
+    2.940447760	C	WAS	 4082112	  72	 137	     jbd2/mmcblk0p28	J
+    2.940640364	A	WBS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.940706041	Q	WBS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.940809895	G	WBS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.940876979	I	WBS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.941248020	D	WS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.942029426	C	WS	 4082184	   8	 137	     jbd2/mmcblk0p28	J
+    2.942191874	C	WS	 4082184	   0	 137	     jbd2/mmcblk0p28	J
+    2.946278854	A	WS	22968504	   8	4813	     IntentService[]	M
+    2.947338281	Q	WS	22968504	   8	4813	     IntentService[]	M
+    2.947461458	G	WS	22968504	   8	4813	     IntentService[]	M
+    2.947523906	I	WS	22968504	   8	4813	     IntentService[]	M
+    2.947723177	D	WAS	22968504	   8	4813	     IntentService[]	M
+    2.948686979	C	WAS	22968504	   8	4813	     IntentService[]	M
+    2.949097708	A	WS	 4082192	   8	 137	     jbd2/mmcblk0p28	J
+    2.949167135	Q	WS	 4082192	   8	 137	     jbd2/mmcblk0p28	J
+    2.949334218	G	WS	 4082192	   8	 137	     jbd2/mmcblk0p28	J
+    2.949459999	A	WS	 4082200	   8	 137	     jbd2/mmcblk0p28	J
+    2.949566614	Q	WS	 4082200	   8	 137	     jbd2/mmcblk0p28	J
+    2.949627656	M	WS	 4082200	   8	 137	     jbd2/mmcblk0p28	J
+    2.949692135	A	WS	 4082208	   8	 137	     jbd2/mmcblk0p28	J
+    2.949913020	Q	WS	 4082208	   8	 137	     jbd2/mmcblk0p28	J
+    2.949979010	M	WS	 4082208	   8	 137	     jbd2/mmcblk0p28	J
+    2.950033906	A	WS	 4082216	   8	 137	     jbd2/mmcblk0p28	J
+    2.950188854	Q	WS	 4082216	   8	 137	     jbd2/mmcblk0p28	J
+    2.950271822	M	WS	 4082216	   8	 137	     jbd2/mmcblk0p28	J
+    2.950362812	A	WS	 4082224	   8	 137	     jbd2/mmcblk0p28	J
+    2.950501666	Q	WS	 4082224	   8	 137	     jbd2/mmcblk0p28	J
+    2.950644062	M	WS	 4082224	   8	 137	     jbd2/mmcblk0p28	J
+    2.950783593	A	WS	 4082232	   8	 137	     jbd2/mmcblk0p28	J
+    2.950968072	Q	WS	 4082232	   8	 137	     jbd2/mmcblk0p28	J
+    2.951082343	M	WS	 4082232	   8	 137	     jbd2/mmcblk0p28	J
+    2.951153697	A	WS	 4082240	   8	 137	     jbd2/mmcblk0p28	J
+    2.951248124	Q	WS	 4082240	   8	 137	     jbd2/mmcblk0p28	J
+    2.951297656	M	WS	 4082240	   8	 137	     jbd2/mmcblk0p28	J
+    2.951357187	A	WS	 4082248	   8	 137	     jbd2/mmcblk0p28	J
+    2.951466249	Q	WS	 4082248	   8	 137	     jbd2/mmcblk0p28	J
+    2.951615208	M	WS	 4082248	   8	 137	     jbd2/mmcblk0p28	J
+    2.951755156	A	WS	 4082256	   8	 137	     jbd2/mmcblk0p28	J
+    2.951893541	Q	WS	 4082256	   8	 137	     jbd2/mmcblk0p28	J
+    2.951974739	M	WS	 4082256	   8	 137	     jbd2/mmcblk0p28	J
+    2.952053228	A	WS	 4082264	   8	 137	     jbd2/mmcblk0p28	J
+    2.952171562	Q	WS	 4082264	   8	 137	     jbd2/mmcblk0p28	J
+    2.952221145	M	WS	 4082264	   8	 137	     jbd2/mmcblk0p28	J
+    2.952277447	A	WS	 4082272	   8	 137	     jbd2/mmcblk0p28	J
+    2.952382395	Q	WS	 4082272	   8	 137	     jbd2/mmcblk0p28	J
+    2.952443541	M	WS	 4082272	   8	 137	     jbd2/mmcblk0p28	J
+    2.952746301	I	WS	 4082192	  88	 137	     jbd2/mmcblk0p28	J
+    2.953650676	D	WAS	 4082192	  88	 137	     jbd2/mmcblk0p28	J
+    2.957314635	C	WAS	 4082192	  88	 137	     jbd2/mmcblk0p28	J
+    2.957506510	A	WBS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.957554270	Q	WBS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.957604114	G	WBS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.957687291	I	WBS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.957902447	D	WS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.958744531	C	WS	 4082280	   8	 137	     jbd2/mmcblk0p28	J
+    2.958972447	C	WS	 4082280	   0	 137	     jbd2/mmcblk0p28	J
+    2.962806822	A	WS	22968512	   8	4813	     IntentService[]	M
+    2.962893593	Q	WS	22968512	   8	4813	     IntentService[]	M
+    2.962955416	G	WS	22968512	   8	4813	     IntentService[]	M
+    2.963045885	I	WS	22968512	   8	4813	     IntentService[]	M
+    2.963119374	D	WAS	22968512	   8	4813	     IntentService[]	M
+    2.963961041	C	WAS	22968512	   8	4813	     IntentService[]	M
+    2.964295676	A	WS	 4082288	   8	 137	     jbd2/mmcblk0p28	J
+    2.964341770	Q	WS	 4082288	   8	 137	     jbd2/mmcblk0p28	J
+    2.964433280	G	WS	 4082288	   8	 137	     jbd2/mmcblk0p28	J
+    2.964484010	A	WS	 4082296	   8	 137	     jbd2/mmcblk0p28	J
+    2.964528593	Q	WS	 4082296	   8	 137	     jbd2/mmcblk0p28	J
+    2.964609999	M	WS	 4082296	   8	 137	     jbd2/mmcblk0p28	J
+    2.964656562	A	WS	 4082304	   8	 137	     jbd2/mmcblk0p28	J
+    2.964732448	Q	WS	 4082304	   8	 137	     jbd2/mmcblk0p28	J
+    2.964815885	M	WS	 4082304	   8	 137	     jbd2/mmcblk0p28	J
+    2.964865364	A	WS	 4082312	   8	 137	     jbd2/mmcblk0p28	J
+    2.964909427	Q	WS	 4082312	   8	 137	     jbd2/mmcblk0p28	J
+    2.964991719	M	WS	 4082312	   8	 137	     jbd2/mmcblk0p28	J
+    2.965044687	A	WS	 4082320	   8	 137	     jbd2/mmcblk0p28	J
+    2.965093177	Q	WS	 4082320	   8	 137	     jbd2/mmcblk0p28	J
+    2.965181458	M	WS	 4082320	   8	 137	     jbd2/mmcblk0p28	J
+    2.965231094	A	WS	 4082328	   8	 137	     jbd2/mmcblk0p28	J
+    2.965273750	Q	WS	 4082328	   8	 137	     jbd2/mmcblk0p28	J
+    2.965355521	M	WS	 4082328	   8	 137	     jbd2/mmcblk0p28	J
+    2.965398698	A	WS	 4082336	   8	 137	     jbd2/mmcblk0p28	J
+    2.965441041	Q	WS	 4082336	   8	 137	     jbd2/mmcblk0p28	J
+    2.965522604	M	WS	 4082336	   8	 137	     jbd2/mmcblk0p28	J
+    2.965569479	A	WS	 4082344	   8	 137	     jbd2/mmcblk0p28	J
+    2.965614062	Q	WS	 4082344	   8	 137	     jbd2/mmcblk0p28	J
+    2.965658906	M	WS	 4082344	   8	 137	     jbd2/mmcblk0p28	J
+    2.965703854	A	WS	 4082352	   8	 137	     jbd2/mmcblk0p28	J
+    2.965746458	Q	WS	 4082352	   8	 137	     jbd2/mmcblk0p28	J
+    2.965794791	M	WS	 4082352	   8	 137	     jbd2/mmcblk0p28	J
+    2.965895468	A	WS	 4082360	   8	 137	     jbd2/mmcblk0p28	J
+    2.965938437	Q	WS	 4082360	   8	 137	     jbd2/mmcblk0p28	J
+    2.965996666	M	WS	 4082360	   8	 137	     jbd2/mmcblk0p28	J
+    2.966249323	A	WS	 4082368	   8	 137	     jbd2/mmcblk0p28	J
+    2.966346875	Q	WS	 4082368	   8	 137	     jbd2/mmcblk0p28	J
+    2.966442552	M	WS	 4082368	   8	 137	     jbd2/mmcblk0p28	J
+    2.966623125	A	WS	 4082376	   8	 137	     jbd2/mmcblk0p28	J
+    2.966695052	Q	WS	 4082376	   8	 137	     jbd2/mmcblk0p28	J
+    2.966751666	M	WS	 4082376	   8	 137	     jbd2/mmcblk0p28	J
+    2.966877291	I	WS	 4082288	  96	 137	     jbd2/mmcblk0p28	J
+    2.966994687	D	WAS	 4082288	  96	 137	     jbd2/mmcblk0p28	J
+    2.970362708	C	WAS	 4082288	  96	 137	     jbd2/mmcblk0p28	J
+    2.970595520	A	WBS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.970665572	Q	WBS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.970744739	G	WBS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.971037968	I	WBS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.971281718	D	WS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.972031406	C	WS	 4082384	   8	 137	     jbd2/mmcblk0p28	J
+    2.972151041	C	WS	 4082384	   0	 137	     jbd2/mmcblk0p28	J
+    4.314585936	A	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.314650728	Q	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.314863541	G	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.314923958	I	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.315084010	D	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.319012499	C	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.319399739	Q	WBS	       0	   0	 135	         flush-179:0	M
+    4.319462135	G	WBS	       0	   0	 135	         flush-179:0	M
+    4.319553280	I	WBS	       0	   0	 135	         flush-179:0	M
+    4.319818176	C	WS	       0	   0	 135	         flush-179:0	M
+    4.320090520	A	WS	 4082392	   8	 137	     jbd2/mmcblk0p28	J
+    4.320140572	Q	WS	 4082392	   8	 137	     jbd2/mmcblk0p28	J
+    4.320317968	G	WS	 4082392	   8	 137	     jbd2/mmcblk0p28	J
+    4.320372499	A	WS	 4082400	   8	 137	     jbd2/mmcblk0p28	J
+    4.320417291	Q	WS	 4082400	   8	 137	     jbd2/mmcblk0p28	J
+    4.320495728	M	WS	 4082400	   8	 137	     jbd2/mmcblk0p28	J
+    4.320591614	A	WS	 4082408	   8	 137	     jbd2/mmcblk0p28	J
+    4.320679582	Q	WS	 4082408	   8	 137	     jbd2/mmcblk0p28	J
+    4.320785780	M	WS	 4082408	   8	 137	     jbd2/mmcblk0p28	J
+    4.320831874	A	WS	 4082416	   8	 137	     jbd2/mmcblk0p28	J
+    4.320875051	Q	WS	 4082416	   8	 137	     jbd2/mmcblk0p28	J
+    4.320961093	M	WS	 4082416	   8	 137	     jbd2/mmcblk0p28	J
+    4.321050937	A	WS	 4082424	   8	 137	     jbd2/mmcblk0p28	J
+    4.321172864	Q	WS	 4082424	   8	 137	     jbd2/mmcblk0p28	J
+    4.321285624	M	WS	 4082424	   8	 137	     jbd2/mmcblk0p28	J
+    4.321334999	A	WS	 4082432	   8	 137	     jbd2/mmcblk0p28	J
+    4.321383124	Q	WS	 4082432	   8	 137	     jbd2/mmcblk0p28	J
+    4.321462968	M	WS	 4082432	   8	 137	     jbd2/mmcblk0p28	J
+    4.321597343	A	WS	 4082440	   8	 137	     jbd2/mmcblk0p28	J
+    4.321709322	Q	WS	 4082440	   8	 137	     jbd2/mmcblk0p28	J
+    4.321810572	M	WS	 4082440	   8	 137	     jbd2/mmcblk0p28	J
+    4.321862187	A	WS	 4082448	   8	 137	     jbd2/mmcblk0p28	J
+    4.321908541	Q	WS	 4082448	   8	 137	     jbd2/mmcblk0p28	J
+    4.321988593	M	WS	 4082448	   8	 137	     jbd2/mmcblk0p28	J
+    4.322110676	A	WS	 4082456	   8	 137	     jbd2/mmcblk0p28	J
+    4.322204270	Q	WS	 4082456	   8	 137	     jbd2/mmcblk0p28	J
+    4.322245936	M	WS	 4082456	   8	 137	     jbd2/mmcblk0p28	J
+    4.322294061	A	WS	 4082464	   8	 137	     jbd2/mmcblk0p28	J
+    4.322338489	Q	WS	 4082464	   8	 137	     jbd2/mmcblk0p28	J
+    4.322396561	M	WS	 4082464	   8	 137	     jbd2/mmcblk0p28	J
+    4.322444478	A	WS	 4082472	   8	 137	     jbd2/mmcblk0p28	J
+    4.322490572	Q	WS	 4082472	   8	 137	     jbd2/mmcblk0p28	J
+    4.322579322	M	WS	 4082472	   8	 137	     jbd2/mmcblk0p28	J
+    4.322628541	A	WS	 4082480	   8	 137	     jbd2/mmcblk0p28	J
+    4.322713020	Q	WS	 4082480	   8	 137	     jbd2/mmcblk0p28	J
+    4.322760989	M	WS	 4082480	   8	 137	     jbd2/mmcblk0p28	J
+    4.322841614	A	WS	 4082488	   8	 137	     jbd2/mmcblk0p28	J
+    4.322884113	Q	WS	 4082488	   8	 137	     jbd2/mmcblk0p28	J
+    4.322928228	M	WS	 4082488	   8	 137	     jbd2/mmcblk0p28	J
+    4.322973541	A	WS	 4082496	   8	 137	     jbd2/mmcblk0p28	J
+    4.323016770	Q	WS	 4082496	   8	 137	     jbd2/mmcblk0p28	J
+    4.323093697	M	WS	 4082496	   8	 137	     jbd2/mmcblk0p28	J
+    4.323148020	A	WS	 4082504	   8	 137	     jbd2/mmcblk0p28	J
+    4.323225676	Q	WS	 4082504	   8	 137	     jbd2/mmcblk0p28	J
+    4.323267968	M	WS	 4082504	   8	 137	     jbd2/mmcblk0p28	J
+    4.323345936	I	WS	 4082392	 120	 137	     jbd2/mmcblk0p28	J
+    4.323459374	D	WAS	 4082392	 120	 137	     jbd2/mmcblk0p28	J
+    4.327496406	C	WAS	 4082392	 120	 137	     jbd2/mmcblk0p28	J
+    4.327686926	A	WBS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.327730781	Q	WBS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.327777656	G	WBS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.327859322	I	WBS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.328060312	D	WS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.328904478	C	WS	 4082512	   8	 137	     jbd2/mmcblk0p28	J
+    4.329127864	C	WS	 4082512	   0	 137	     jbd2/mmcblk0p28	J
+    4.329531093	A	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.329577603	Q	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.329685885	G	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.329826197	I	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.329933905	D	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.330792135	C	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.330904635	Q	WBS	       0	   0	 135	         flush-179:0	M
+    4.330959947	G	WBS	       0	   0	 135	         flush-179:0	M
+    4.331049635	I	WBS	       0	   0	 135	         flush-179:0	M
+    4.331249947	C	WS	       0	   0	 135	         flush-179:0	M
+    4.331386822	A	WS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.331463228	Q	WS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.331510103	G	WS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.331559791	I	WS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.331717916	D	WAS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.332483749	C	WAS	22921576	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage
+    4.332574686	Q	WBS	       0	   0	 135	         flush-179:0	M
+    4.332693124	G	WBS	       0	   0	 135	         flush-179:0	M
+    4.332950936	I	WBS	       0	   0	 135	         flush-179:0	M
+    4.333153749	C	WS	       0	   0	 135	         flush-179:0	M
+    4.333323228	A	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.333502863	Q	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.333573176	G	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.333925468	I	WS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.334069165	D	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.335009427	C	WAS	22921568	   8	3051	     .android.chrome	D	/data/com.android.chrome/app_chrome/Default/Local Storage/http_m.news.naver.com_0.localstorage-journal
+    4.335253541	Q	WBS	       0	   0	 135	         flush-179:0	M
+    4.335334895	G	WBS	       0	   0	 135	         flush-179:0	M
+    4.335393958	I	WBS	       0	   0	 135	         flush-179:0	M
+    4.335733593	C	WS	       0	   0	 135	         flush-179:0	M
+    4.553128645	D	RA	 5129152	  32	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.556897968	C	RA	 5129152	  32	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.573867030	A	WS	22968520	   8	3070	        AsyncTask #4	M
+    4.573993124	Q	WS	22968520	   8	3070	        AsyncTask #4	M
+    4.574118749	G	WS	22968520	   8	3070	        AsyncTask #4	M
+    4.574316509	I	WS	22968520	   8	3070	        AsyncTask #4	M
+    4.574513853	D	WAS	22968520	   8	3070	        AsyncTask #4	M
+    4.575539791	C	WAS	22968520	   8	3070	        AsyncTask #4	M
+    4.575861510	A	WS	 4082520	   8	 137	     jbd2/mmcblk0p28	J
+    4.576004114	Q	WS	 4082520	   8	 137	     jbd2/mmcblk0p28	J
+    4.576087343	G	WS	 4082520	   8	 137	     jbd2/mmcblk0p28	J
+    4.576228645	A	WS	 4082528	   8	 137	     jbd2/mmcblk0p28	J
+    4.576304895	Q	WS	 4082528	   8	 137	     jbd2/mmcblk0p28	J
+    4.576440885	M	WS	 4082528	   8	 137	     jbd2/mmcblk0p28	J
+    4.576518541	A	WS	 4082536	   8	 137	     jbd2/mmcblk0p28	J
+    4.576594114	Q	WS	 4082536	   8	 137	     jbd2/mmcblk0p28	J
+    4.576673072	M	WS	 4082536	   8	 137	     jbd2/mmcblk0p28	J
+    4.576812916	A	WS	 4082544	   8	 137	     jbd2/mmcblk0p28	J
+    4.576886458	Q	WS	 4082544	   8	 137	     jbd2/mmcblk0p28	J
+    4.576961041	M	WS	 4082544	   8	 137	     jbd2/mmcblk0p28	J
+    4.577095260	A	WS	 4082552	   8	 137	     jbd2/mmcblk0p28	J
+    4.577168333	Q	WS	 4082552	   8	 137	     jbd2/mmcblk0p28	J
+    4.577243854	M	WS	 4082552	   8	 137	     jbd2/mmcblk0p28	J
+    4.577381979	A	WS	 4082560	   8	 137	     jbd2/mmcblk0p28	J
+    4.577456406	Q	WS	 4082560	   8	 137	     jbd2/mmcblk0p28	J
+    4.577530520	M	WS	 4082560	   8	 137	     jbd2/mmcblk0p28	J
+    4.577666822	A	WS	 4082568	   8	 137	     jbd2/mmcblk0p28	J
+    4.577741926	Q	WS	 4082568	   8	 137	     jbd2/mmcblk0p28	J
+    4.577818593	M	WS	 4082568	   8	 137	     jbd2/mmcblk0p28	J
+    4.577956406	A	WS	 4082576	   8	 137	     jbd2/mmcblk0p28	J
+    4.578030416	Q	WS	 4082576	   8	 137	     jbd2/mmcblk0p28	J
+    4.578104322	M	WS	 4082576	   8	 137	     jbd2/mmcblk0p28	J
+    4.578239010	A	WS	 4082584	   8	 137	     jbd2/mmcblk0p28	J
+    4.578313645	Q	WS	 4082584	   8	 137	     jbd2/mmcblk0p28	J
+    4.578388541	M	WS	 4082584	   8	 137	     jbd2/mmcblk0p28	J
+    4.578524010	A	WS	 4082592	   8	 137	     jbd2/mmcblk0p28	J
+    4.578597239	Q	WS	 4082592	   8	 137	     jbd2/mmcblk0p28	J
+    4.578674114	M	WS	 4082592	   8	 137	     jbd2/mmcblk0p28	J
+    4.578809843	A	WS	 4082600	   8	 137	     jbd2/mmcblk0p28	J
+    4.578884114	Q	WS	 4082600	   8	 137	     jbd2/mmcblk0p28	J
+    4.578958593	M	WS	 4082600	   8	 137	     jbd2/mmcblk0p28	J
+    4.579094426	A	WS	 4082608	   8	 137	     jbd2/mmcblk0p28	J
+    4.579168489	Q	WS	 4082608	   8	 137	     jbd2/mmcblk0p28	J
+    4.579242135	M	WS	 4082608	   8	 137	     jbd2/mmcblk0p28	J
+    4.579377655	A	WS	 4082616	   8	 137	     jbd2/mmcblk0p28	J
+    4.579451041	Q	WS	 4082616	   8	 137	     jbd2/mmcblk0p28	J
+    4.579525260	M	WS	 4082616	   8	 137	     jbd2/mmcblk0p28	J
+    4.579662812	A	WS	 4082624	   8	 137	     jbd2/mmcblk0p28	J
+    4.579739582	Q	WS	 4082624	   8	 137	     jbd2/mmcblk0p28	J
+    4.579817395	M	WS	 4082624	   8	 137	     jbd2/mmcblk0p28	J
+    4.579956249	A	WS	 4082632	   8	 137	     jbd2/mmcblk0p28	J
+    4.580031874	Q	WS	 4082632	   8	 137	     jbd2/mmcblk0p28	J
+    4.580108332	M	WS	 4082632	   8	 137	     jbd2/mmcblk0p28	J
+    4.580255416	I	WS	 4082520	 120	 137	     jbd2/mmcblk0p28	J
+    4.580377916	D	WAS	 4082520	 120	 137	     jbd2/mmcblk0p28	J
+    4.584003697	C	WAS	 4082520	 120	 137	     jbd2/mmcblk0p28	J
+    4.584291301	A	WBS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.584370103	Q	WBS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.584452186	G	WBS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.584593332	I	WBS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.584848593	D	WS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.585571510	C	WS	 4082640	   8	 137	     jbd2/mmcblk0p28	J
+    4.585712760	C	WS	 4082640	   0	 137	     jbd2/mmcblk0p28	J
+    4.791674791	D	RA	 4800416	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.794966614	C	RA	 4800416	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.912987603	D	RA	 4800432	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.913509686	C	RA	 4800432	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.927749635	D	RA	 4800440	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    4.928383749	C	RA	 4800440	   8	3041	     .android.chrome	D	/data/com.android.chrome/cache/Cache/data_1
+    7.125029268	A	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.125108435	Q	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.125252498	G	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.125347654	I	W	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.125410154	A	W	 5127168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.125417393	Q	W	 5127168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.125556768	D	WA	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.125634633	G	W	 5127168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.125759008	A	W	 5129152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.125909529	Q	W	 5129152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126047550	G	W	 5129152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126172081	A	W	 5129296	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126305987	Q	W	 5129296	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126448904	G	W	 5129296	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126565414	A	W	 5130648	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126704060	Q	W	 5130648	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.126865466	G	W	 5130648	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127020050	A	W	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127095779	Q	W	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127253018	G	W	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127414841	A	W	 4800208	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127506039	Q	W	 4800208	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127686977	G	W	 4800208	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127775518	A	W	 4800216	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127852081	Q	W	 4800216	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.127995206	M	W	 4800216	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128102081	A	W	 4800240	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128180206	Q	W	 4800240	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128263331	G	W	 4800240	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128412706	A	W	 4800248	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128491456	Q	W	 4800248	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128571664	M	W	 4800248	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128715779	A	W	 4800256	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128790466	Q	W	 4800256	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.128865779	M	W	 4800256	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129023747	A	W	 4800272	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129096560	Q	W	 4800272	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129175622	G	W	 4800272	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129315622	A	W	 4800280	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129387810	Q	W	 4800280	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129460622	M	W	 4800280	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129599633	A	W	 4800288	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129673747	Q	W	 4800288	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129747549	M	W	 4800288	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129848331	A	W	 4800336	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.129978070	Q	W	 4800336	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130055883	G	W	 4800336	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130157810	A	W	 4800360	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130289789	Q	W	 4800360	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130357966	C	WA	 6598384	   8	 135	         flush-179:0	D	/data/com.android.chrome/files/android_ticl_service_state.bin
+    7.130492289	G	W	 4800360	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130578174	A	W	 4800368	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130655622	Q	W	 4800368	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130733695	M	W	 4800368	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130876351	A	W	 4800376	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.130950674	Q	W	 4800376	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131027705	M	W	 4800376	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131188539	A	W	 4800392	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131262601	Q	W	 4800392	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131341455	G	W	 4800392	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131502705	A	W	 4800408	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131577289	Q	W	 4800408	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131657132	G	W	 4800408	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131798018	A	W	 4800416	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131873539	Q	W	 4800416	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.131955049	M	W	 4800416	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132122028	A	W	 4800432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132200622	Q	W	 4800432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132282028	G	W	 4800432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132364372	A	W	 4800440	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132496091	Q	W	 4800440	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132571247	M	W	 4800440	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132672497	A	W	 4800600	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132801455	Q	W	 4800600	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132881612	G	W	 4800600	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.132966091	A	W	 4801024	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133096716	Q	W	 4801024	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133175882	G	W	 4801024	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133258539	A	W	 4801032	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133387289	Q	W	 4801032	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133461976	M	W	 4801032	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133542966	A	W	 4801040	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133673695	Q	W	 4801040	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133748174	M	W	 4801040	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133828643	A	W	 4801048	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.133900674	Q	W	 4801048	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134034111	M	W	 4801048	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134132861	A	W	 4801064	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134207809	Q	W	 4801064	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134345726	G	W	 4801064	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134520205	A	W	 4801152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134595257	Q	W	 4801152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134770258	G	W	 4801152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134852185	I	W	 5127168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.134939373	I	W	 5129152	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135077862	I	W	 5129296	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135152654	I	W	 5130648	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135226664	I	W	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135359164	I	W	 4800208	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135433175	I	W	 4800240	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135507550	I	W	 4800272	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135581039	I	W	 4800336	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135713904	I	W	 4800360	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135791352	I	W	 4800392	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.135866925	I	W	 4800408	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136001664	I	W	 4800432	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136077550	I	W	 4800600	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136152862	I	W	 4801024	  32	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136285779	I	W	 4801064	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136356456	A	W	 4801160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136363279	Q	W	 4801160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136371300	M	W	 4801160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136385675	A	W	 4801168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136392133	Q	W	 4801168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136399320	M	W	 4801168	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136641352	D	WA	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136716820	I	W	 4801152	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136757602	A	W	 6652432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.136764216	Q	W	 6652432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.136866404	D	WA	 4800208	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.136981247	G	W	 6652432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.137154581	A	W	23925608	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.137298122	Q	W	23925608	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.137323852	C	WA	 4799752	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.137341247	D	WA	 4800240	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.137585102	G	W	23925608	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.137743331	A	W	22921640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.137894164	Q	W	22921640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138049060	G	W	22921640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138086924	C	WA	 4800208	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.138143852	D	WA	 4800272	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1
+    7.138339268	A	W	23937664	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138480779	Q	W	23937664	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138575362	G	W	23937664	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138784268	A	W	 4771088	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138862706	Q	W	 4771088	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.138979841	G	W	 4771088	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139123539	A	W	 4771096	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139202289	Q	W	 4771096	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139279372	M	W	 4771096	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139310518	A	W	 4771128	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139317133	Q	W	 4771128	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139328799	G	W	 4771128	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139358174	A	W	 4771144	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139364789	Q	W	 4771144	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139376143	G	W	 4771144	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139404581	A	W	 4771192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139411143	Q	W	 4771192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139422601	G	W	 4771192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139437966	A	W	 4771200	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139444320	Q	W	 4771200	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139451560	M	W	 4771200	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139478799	A	W	 5547624	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139485362	Q	W	 5547624	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139497445	G	W	 5547624	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139512549	A	W	 5547632	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139518903	Q	W	 5547632	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139525987	M	W	 5547632	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139539060	A	W	 5547640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139545466	Q	W	 5547640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139552497	M	W	 5547640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139568695	I	W	 6652432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139578070	I	W	23925608	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139585831	I	W	22921640	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139593851	I	W	23937664	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139601768	I	W	 4771088	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139609372	I	W	 4771128	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139617237	I	W	 4771144	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139624685	I	W	 4771192	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139632549	I	W	 5547624	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_0
+    7.139670101	A	W	 5097472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139676768	Q	W	 5097472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139687706	G	W	 5097472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139703070	A	W	 5097480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139709320	Q	W	 5097480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139716351	M	W	 5097480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139729060	A	W	 4766160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139735310	Q	W	 4766160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139746456	G	W	 4766160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139779424	A	W	 4766184	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139785935	Q	W	 4766184	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139797341	G	W	 4766184	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139815570	A	W	 4766192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139821976	Q	W	 4766192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139829164	M	W	 4766192	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139857758	A	W	 4766432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139864268	Q	W	 4766432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139875206	G	W	 4766432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139905414	A	W	 4766448	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139911976	Q	W	 4766448	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139922862	G	W	 4766448	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139952497	A	W	 5097616	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139958956	Q	W	 5097616	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.139970466	G	W	 5097616	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140001456	A	W	 5097552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140007966	Q	W	 5097552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140019528	G	W	 5097552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140049320	A	W	 5097776	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140055778	Q	W	 5097776	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140067341	G	W	 5097776	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140097445	A	W	 5097872	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140103903	Q	W	 5097872	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140115778	G	W	 5097872	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140130778	A	W	 5097512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140137028	Q	W	 5097512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140148591	G	W	 5097512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140163487	A	W	 5097888	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140169789	Q	W	 5097888	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140182810	G	W	 5097888	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140211664	A	W	 5097904	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140218070	Q	W	 5097904	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140230258	G	W	 5097904	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140256924	A	W	 5097920	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140263383	Q	W	 5097920	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140275674	G	W	 5097920	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140301612	A	W	 5097976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140307966	Q	W	 5097976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140320518	G	W	 5097976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140337601	I	W	 5097472	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140346091	I	W	 4766160	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140354008	I	W	 4766184	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140361976	I	W	 4766432	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140369893	I	W	 4766448	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140377653	I	W	 5097616	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140385674	I	W	 5097552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140393383	I	W	 5097776	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140401247	I	W	 5097872	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140409060	I	W	 5097512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140416664	I	W	 5097888	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140424476	I	W	 5097904	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140432289	I	W	 5097920	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140440101	I	W	 5097976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/index
+    7.140551664	A	W	 6639352	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140558799	Q	W	 6639352	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140570466	G	W	 6639352	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140586924	A	W	 6639360	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140593695	Q	W	 6639360	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140601143	M	W	 6639360	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140614685	A	W	22968528	   8	100135	         flush-179:0	M
+    7.140621664	Q	W	22968528	   8	100135	         flush-179:0	M
+    7.140632914	G	W	22968528	   8	100135	         flush-179:0	M
+    7.140648383	A	W	22968536	   8	100135	         flush-179:0	M
+    7.140655205	Q	W	22968536	   8	100135	         flush-179:0	M
+    7.140662653	M	W	22968536	   8	100135	         flush-179:0	M
+    7.140676247	A	W	22968544	   8	100135	         flush-179:0	M
+    7.140683122	Q	W	22968544	   8	100135	         flush-179:0	M
+    7.140690674	M	W	22968544	   8	100135	         flush-179:0	M
+    7.140704112	A	W	22968552	   8	100135	         flush-179:0	M
+    7.140710935	Q	W	22968552	   8	100135	         flush-179:0	M
+    7.140718330	M	W	22968552	   8	100135	         flush-179:0	M
+    7.140731820	A	W	22968560	   8	100135	         flush-179:0	M
+    7.140738747	Q	W	22968560	   8	100135	         flush-179:0	M
+    7.140746195	M	W	22968560	   8	100135	         flush-179:0	M
+    7.140759476	A	W	22968568	   8	100135	         flush-179:0	M
+    7.140766403	Q	W	22968568	   8	100135	         flush-179:0	M
+    7.140773955	M	W	22968568	   8	100135	         flush-179:0	M
+    7.140788903	A	W	22968576	   8	100135	         flush-179:0	M
+    7.140795726	Q	W	22968576	   8	100135	         flush-179:0	M
+    7.140803122	M	W	22968576	   8	100135	         flush-179:0	M
+    7.140819841	I	W	 6639352	  16	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/History-journal
+    7.140829268	I	W	22968528	  56	100135	         flush-179:0	M
+    7.140876455	A	W	 5083136	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140883122	Q	W	 5083136	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140894216	G	W	 5083136	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140928591	A	W	 5892784	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140935205	Q	W	 5892784	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140946195	G	W	 5892784	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140961403	A	W	 5892792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140967914	Q	W	 5892792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140974997	M	W	 5892792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140988643	A	W	 5892800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.140994997	Q	W	 5892800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141002133	M	W	 5892800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141082653	A	W	 5895456	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141089164	Q	W	 5895456	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141100674	G	W	 5895456	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141115987	A	W	 5895464	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141122549	Q	W	 5895464	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141129580	M	W	 5895464	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141142497	A	W	 5895472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141148851	Q	W	 5895472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141156039	M	W	 5895472	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141168851	A	W	 5895480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141175258	Q	W	 5895480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141182341	M	W	 5895480	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141195570	A	W	 5895488	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141202080	Q	W	 5895488	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141209216	M	W	 5895488	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141272914	A	W	 5895504	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141279476	Q	W	 5895504	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141291091	G	W	 5895504	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141305778	A	W	 5895512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141312185	Q	W	 5895512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141319164	M	W	 5895512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141332341	A	W	 5895520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141338747	Q	W	 5895520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141345726	M	W	 5895520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141359216	A	W	 5895528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141365570	Q	W	 5895528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141372445	M	W	 5895528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141388018	I	W	 5083136	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141396612	I	W	 5892784	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141404528	I	W	 5895456	  40	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141412237	I	W	 5895504	  32	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_3
+    7.141644164	A	W	 6704512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141650882	Q	W	 6704512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141662080	G	W	 6704512	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141677341	A	W	 6704520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141683799	Q	W	 6704520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141690778	M	W	 6704520	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141703643	A	W	 6704528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141709997	Q	W	 6704528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141716924	M	W	 6704528	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141729580	A	W	 6704536	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141735987	Q	W	 6704536	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141742966	M	W	 6704536	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141755778	A	W	 6704544	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141762080	Q	W	 6704544	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141769007	M	W	 6704544	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.141781716	A	W	 6704552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141788018	Q	W	 6704552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141794945	M	W	 6704552	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141807601	A	W	 6704560	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141813903	Q	W	 6704560	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141820882	M	W	 6704560	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141833591	A	W	 6704568	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141839945	Q	W	 6704568	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141846872	M	W	 6704568	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141859528	A	W	 6704576	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141865830	Q	W	 6704576	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141872757	M	W	 6704576	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141885362	A	W	 6704584	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141891664	Q	W	 6704584	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141898591	M	W	 6704584	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_00028b
+    7.141911247	A	W	 6704592	   8	 135	         flush-179:0	M
+    7.141917549	Q	W	 6704592	   8	 135	         flush-179:0	M
+    7.141924476	M	W	 6704592	   8	 135	         flush-179:0	M
+    7.141941299	A	W	 6704600	   8	 135	         flush-179:0	M
+    7.141947810	Q	W	 6704600	   8	 135	         flush-179:0	M
+    7.141955049	M	W	 6704600	   8	 135	         flush-179:0	M
+    7.141972028	I	W	 6704512	  96	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000288
+    7.142003695	A	W	 6630112	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142010778	Q	W	 6630112	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142022601	G	W	 6630112	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142040101	A	W	 6639400	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142047080	Q	W	 6639400	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142058799	G	W	 6639400	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142074632	A	W	 6639408	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142081560	Q	W	 6639408	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142089060	M	W	 6639408	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142104580	I	W	 6630112	   8	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142113539	I	W	 6639400	  16	100135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Favicons-journal
+    7.142150778	A	W	 5160960	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142157393	Q	W	 5160960	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142168278	G	W	 5160960	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142235518	A	W	 5163968	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142242080	Q	W	 5163968	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142253487	G	W	 5163968	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142269737	A	W	 5163976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142276143	Q	W	 5163976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142283174	M	W	 5163976	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142297966	I	W	 5160960	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142306247	I	W	 5163968	  16	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_2
+    7.142497393	A	W	 6703792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142504268	Q	W	 6703792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142515674	G	W	 6703792	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142531455	A	W	 6703800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142537914	Q	W	 6703800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142545153	M	W	 6703800	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142558487	A	W	 6703808	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142564997	Q	W	 6703808	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142572080	M	W	 6703808	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142584893	A	W	 6703816	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142591351	Q	W	 6703816	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142598330	M	W	 6703816	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142614632	A	W	 6703824	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142621247	Q	W	 6703824	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142628643	M	W	 6703824	   8	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142643747	I	W	 6703792	  40	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/f_000287
+    7.142673695	A	W	23029016	   8	 135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Session Storage/000048.log
+    7.142680362	Q	W	23029016	   8	 135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Session Storage/000048.log
+    7.142691976	G	W	23029016	   8	 135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Session Storage/000048.log
+    7.142707914	I	W	23029016	   8	 135	         flush-179:0	D	/data/com.android.chrome/app_chrome/Default/Session Storage/000048.log
+    7.142763903	A	W	 6591072	   8	 135	         flush-179:0	M
+    7.142770518	Q	W	 6591072	   8	 135	         flush-179:0	M
+    7.142781716	G	W	 6591072	   8	 135	         flush-179:0	M
+    7.142801976	A	W	 6591264	   8	 135	         flush-179:0	M
+    7.142808434	Q	W	 6591264	   8	 135	         flush-179:0	M
+    7.142823851	G	W	 6591264	   8	 135	         flush-179:0	M
+    7.142849268	A	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    7.142855726	Q	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    7.142866872	G	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    7.142887809	A	W	22843416	   8	 135	         flush-179:0	M
+    7.142894684	Q	W	22843416	   8	 135	         flush-179:0	M
+    7.142906299	G	W	22843416	   8	 135	         flush-179:0	M
+    7.142921299	A	W	22843424	   8	 135	         flush-179:0	M
+    7.142928070	Q	W	22843424	   8	 135	         flush-179:0	M
+    7.142935726	M	W	22843424	   8	 135	         flush-179:0	M
+    7.142949372	A	W	23891968	   8	 135	         flush-179:0	M
+    7.142956039	Q	W	23891968	   8	 135	         flush-179:0	M
+    7.142967809	G	W	23891968	   8	 135	         flush-179:0	M
+    7.143013434	A	W	 6590688	   8	 135	         flush-179:0	M
+    7.143021455	Q	W	 6590688	   8	 135	         flush-179:0	M
+    7.143034216	G	W	 6590688	   8	 135	         flush-179:0	M
+    7.143054997	A	W	 6590816	   8	 135	         flush-179:0	M
+    7.143061403	Q	W	 6590816	   8	 135	         flush-179:0	M
+    7.143072914	G	W	 6590816	   8	 135	         flush-179:0	M
+    7.143092757	I	W	 6591072	   8	 135	         flush-179:0	M
+    7.143101091	I	W	 6591264	   8	 135	         flush-179:0	M
+    7.143109007	I	W	 6634136	   8	 135	         flush-179:0	D	/data/com.android.chrome/shared_prefs
+    7.143117132	I	W	22843416	  16	 135	         flush-179:0	M
+    7.143124893	I	W	23891968	   8	 135	         flush-179:0	M
+    7.143134268	I	W	 6590688	   8	 135	         flush-179:0	M
+    7.143141820	I	W	 6590816	   8	 135	         flush-179:0	M
+    7.152101611	C	WA	 4800240	  24	 135	         flush-179:0	D	/data/com.android.chrome/cache/Cache/data_1

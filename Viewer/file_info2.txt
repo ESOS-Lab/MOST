@@ -1,0 +1,13 @@
+NONE_FILE NONE
+SQLITE_DB_FILE db
+SQLITE_JOURNAL_FILE db-j$6 journal
+SQLITE_WAL_FILE db-w$2 wal
+SQLITE_TEMP_FILE db-s$2 shm db-mj$9 db-mj$10
+MULTI_FILE jpg 3pg mp3 mp4 MOV avi thumb
+EXEC_FILE so dex apk odex
+RESOURCE_FILE dat xml cache locals$6 thumbdata3
+TEMP_FILE bak tmp temp
+UDROID_IO_FILE uio
+UDROID_FILELS_FILE ufls
+UDROID_MEM_FILE um
+UDROID_MEMDETAIL_FILE umd
