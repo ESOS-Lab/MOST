@@ -47,3 +47,38 @@ Example
 
 
 2012-08-27, Kisung Lee <kisunglee@hanyang.ac.kr>
+
+MOST Viewer
+==============
+
+Requirement tools
+    1. python
+        # apt-get install python
+    2. R
+        # apt-get install r-base
+
+Usage
+-------
+    # python test2.py [option]
+    
+example
+--------
+    # python test2.py [-g graph_type] [-rw Read or Write] [-t time] [-y y-axis] [-l legend] [-i input] [-o output] [-s size] [-p point]
+    * graph_type : f(Cumulative Bar Plot-file_type)/ b(Cumulative Bar Plot-block_type)/ t(time_plot+simple bar plot)/ all
+    * Read or Write : r(read)/ w(write)/ rw(both read and write) 1. time_plot(graph) only 2. rw is default
+    * time : sec(start):sec(end) # default - whole of the <result.po> data
+    * y-axis - t(time plot) : s(sector size)/ n(sector number)/ all(default) 
+	 - b(block type)/f(file type) : s(I/O Size)/ c(I/O Count)/ all(default)
+    * legend : f(file_type)/ b(block_type) # time_plot(graph) only, not implemented.
+    * input : # 1. name of the MOST output file(*.po), 2. default : result.po
+	    3. also setted as directory names : <name>-<time> ex> result.po-Wed,Sep,30,16:08:04,2015
+    * output # 1. name and location of the graph 2. file extension together
+    * size : width:height # 1. To control the ratio, size of the Graph file 2. units : inch  3. default is 7:7
+    * point : c(color)/ s(shape) # 1. time_plot(graph) only, 2. color is default
+
+manual
+--------
+    link : https://drive.google.com/file/d/0B_qhp_YDu7dwalI1RWhsLWxXV0k/view?usp=sharing
+    
+    
+2016-01-08, Kyeongyeol Choe <chl4651@hanyang.ac.kr>
