@@ -62,7 +62,7 @@ Usage
 -------
     # python test2.py [option]
     
-example
+Example
 --------
     # python test2.py [-g graph_type] [-rw Read or Write] [-t time] [-y y-axis] [-l legend] [-i input] [-o output] [-s size] [-p point]
     * graph_type : f(Cumulative Bar Plot-file_type)/ b(Cumulative Bar Plot-block_type)/ t(time_plot+simple bar plot)/ all
