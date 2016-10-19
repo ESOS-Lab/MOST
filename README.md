@@ -82,4 +82,4 @@ manual
 <https://drive.google.com/file/d/0B_qhp_YDu7dwalI1RWhsLWxXV0k/view?usp=sharing>
     
     
-2016-01-08, Kyeongyeol Choe <chl4651@hanyang.ac.kr>
+2016-01-08, Gyeongyeol Choi <chl4651@hanyang.ac.kr>
