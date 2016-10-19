@@ -77,7 +77,7 @@ Example
     * size : width:height # 1. To control the ratio, size of the Graph file 2. units : inch  3. default is 7:7
     * point : c(color)/ s(shape) # 1. time_plot(graph) only, 2. color is default
 
-manual
+Manual
 --------
 <https://drive.google.com/file/d/0B_qhp_YDu7dwalI1RWhsLWxXV0k/view?usp=sharing>
     
